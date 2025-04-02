@@ -2,6 +2,7 @@
 
 #### Training ####
 ---You first need to prepare the datasets for training.
+
 ---Different datasets may correspond to different training hyper-parameters. Please train the model with the arguments mentioned in the paper(A Bright Feature Selection Transformer for Single-Image Deraining), and modify them in train.yaml.
 
 Before training the model, you need to open the visdom server in another command window to visualize the restoration results, please run
@@ -24,6 +25,8 @@ You also need to prepare the datasets for testing, and modify the arguments in t
 python test.py
 ```
 
+#### Visual Deraining Results
+
 ##  Performance Evaluation
 
 #### To reproduce PSNR/SSIM scores of the paper on Rain200L/H, SPA-Data and GT-RAIN datasets, run this MATLAB script
@@ -35,3 +38,4 @@ python test.py
 ```
 .\test-ddn-did-psnr-ssim\statistic.m
 ```
+
