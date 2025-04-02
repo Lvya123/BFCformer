@@ -1,6 +1,6 @@
  ###### A Bright Feature Selection Transformer for Single-Image Deraining ######
 
-#### Training ####
+##  Training
 ---You first need to prepare the datasets for training.
 
 ---Different datasets may correspond to different training hyper-parameters. Please train the model with the arguments mentioned in the paper(A Bright Feature Selection Transformer for Single-Image Deraining), and modify them in train.yaml.
@@ -19,7 +19,7 @@ The results and weight will be saved in .\log.
 
 #### Pre-trained Models
 
-#### Start evaluating ####
+##  Testing
 You also need to prepare the datasets for testing, and modify the arguments in test.yaml. Please run
 ```
 python test.py
@@ -38,4 +38,3 @@ python test.py
 ```
 .\test-ddn-did-psnr-ssim\statistic.m
 ```
-
