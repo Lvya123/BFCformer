@@ -1,0 +1,2336 @@
+[
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "repeat",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "repeat",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "DropPath",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "to_2tuple",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "DropPath",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "to_2tuple",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "importPath": "timm.models.layers",
+        "description": "timm.models.layers",
+        "isExtraImport": true,
+        "detail": "timm.models.layers",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "LinearProjection",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class LinearProjection(nn.Module):\n    def __init__(self, dim, heads = 8, dim_head = 64, dropout = 0., bias=True):\n        super().__init__()\n        inner_dim = dim_head *  heads\n        self.heads = heads\n        self.to_q = nn.Linear(dim, inner_dim, bias = bias)\n        self.to_kv = nn.Linear(dim, inner_dim * 2, bias = bias)\n        self.dim = dim\n        self.inner_dim = inner_dim\n    def forward(self, x, attn_kv=None):",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "WindowAttention",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class WindowAttention(nn.Module):\n    def __init__(self, dim, win_size,num_heads, token_projection='linear', qkv_bias=True, qk_scale=None, attn_drop=0., proj_drop=0.):\n        super().__init__()\n        self.dim = dim\n        self.win_size = win_size  # Wh, Ww\n        self.num_heads = num_heads\n        head_dim = dim // num_heads\n        self.scale = qk_scale or head_dim ** -0.5\n        # define a parameter table of relative position bias\n        self.relative_position_bias_table = nn.Parameter(",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "WindowAttention_sparse",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class WindowAttention_sparse(nn.Module):\n    def __init__(self, dim, win_size,num_heads, token_projection='linear', qkv_bias=True, qk_scale=None, attn_drop=0., proj_drop=0.):\n        super().__init__()\n        self.dim = dim\n        self.win_size = win_size  # Wh, Ww\n        self.num_heads = num_heads\n        head_dim = dim // num_heads\n        self.scale = qk_scale or head_dim ** -0.5\n        # define a parameter table of relative position bias\n        self.relative_position_bias_table = nn.Parameter(",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size=8, num_heads=1, shift_size=0, qkv_bias=True, qk_scale=None,drop=0., attn_drop=0.,drop_path=0.,norm_layer=nn.LayerNorm, token_projection='linear',sparseAtt=False, bias=False):\n        super(Block, self).__init__()\n        self.sparseAtt = sparseAtt\n        self.channel = channel\n        self.num_heads = num_heads\n        self.win_size = win_size\n        self.shift_size = shift_size\n        self.ln = LayerNorm2d(channel)\n        self.norm1 = norm_layer(channel)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size=8, num_heads=[1,2,4], qkv_bias=True, qk_scale=None,drop=0., attn_drop=0., drop_path=0.,token_projection='linear',sparseAtt=False, depth=[4,4,8], bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, \n                  shift_size=0 if (i % 2 == 0) else win_size // 2,qkv_bias=qkv_bias, \n                  drop_path=drop_path[i] if isinstance(drop_path, list) else drop_path,\n                  qk_scale=qk_scale,drop=drop, attn_drop=attn_drop,token_projection=token_projection, \n                  bias=bias) for i in range(depth)\n        ])",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 48, \n                win_size = 8, \n                heads = [1,2,4], \n                qkv_bias=True, \n                qk_scale=None,\n                drop=0., ",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partition",
+        "kind": 2,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "def window_partition(x, win_size, dilation_rate=1):\n    B, H, W, C = x.shape\n    if dilation_rate !=1:\n        x = x.permute(0,3,1,2) # B, C, H, W\n        assert type(dilation_rate) is int, 'dilation_rate should be a int'\n        x = F.unfold(x, kernel_size=win_size,dilation=dilation_rate,padding=4*(dilation_rate-1),stride=win_size) # B, C*Wh*Ww, H/Wh*W/Ww\n        windows = x.permute(0,2,1).contiguous().view(-1, C, win_size, win_size) # B' ,C ,Wh ,Ww\n        windows = windows.permute(0,2,3,1).contiguous() # B' ,Wh ,Ww ,C\n    else:\n        x = x.view(B, H // win_size, win_size, W // win_size, win_size, C)",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverse",
+        "kind": 2,
+        "importPath": "attn_replace.ASSA",
+        "description": "attn_replace.ASSA",
+        "peekOfCode": "def window_reverse(windows, win_size, H, W, dilation_rate=1):\n    # B' ,Wh ,Ww ,C\n    B = int(windows.shape[0] / (H * W / win_size / win_size))\n    x = windows.view(B, H // win_size, W // win_size, win_size, win_size, -1)\n    if dilation_rate !=1:\n        x = windows.permute(0,5,3,4,1,2).contiguous() # B, C*Wh*Ww, H/Wh*W/Ww\n        x = F.fold(x, (H, W), kernel_size=win_size, dilation=dilation_rate, padding=4*(dilation_rate-1),stride=win_size)\n    else:\n        x = x.permute(0, 1, 3, 2, 4, 5).contiguous().view(B, H, W, -1)\n    return x",
+        "detail": "attn_replace.ASSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "BasicConv",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class BasicConv(nn.Module):\n    def __init__(self, in_channel, out_channel, kernel_size, stride, bias=False, norm=False, relu=True, transpose=False,\n                 channel_shuffle_g=0, norm_method=nn.BatchNorm2d, groups=1):\n        super(BasicConv, self).__init__()\n        self.channel_shuffle_g = channel_shuffle_g\n        self.norm = norm\n        if bias and norm:\n            bias = False\n        padding = kernel_size // 2\n        layers = list()",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, dim, num_heads, bias, BasicConv=BasicConv):\n        super(Attention, self).__init__()\n        self.num_heads = num_heads\n        self.temperature = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.qkv = nn.Conv2d(dim, dim * 3, kernel_size=1, bias=bias)\n        self.qkv_dwconv = BasicConv(dim * 3, dim * 3, kernel_size=3, stride=1, bias=bias, relu=False, groups=dim * 3)\n        self.project_out = nn.Conv2d(dim, dim, kernel_size=1, bias=bias)\n    def forward(self, x):\n        b, c, h, w = x.shape",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.ln = LayerNorm2d(channel)\n        self.attention = Attention(channel, num_heads, bias, BasicConv=BasicConv)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(self.ln(x)) + x\n        x = self.ffn(x) + x\n        return x ",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        # print('x=', x.shape)\n        x = self.proj(x)",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "attn_replace.MDTA",
+        "description": "attn_replace.MDTA",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "attn_replace.MDTA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, dim, num_heads, bias):\n        super(Attention, self).__init__()\n        self.num_heads = num_heads\n        self.temperature = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.qkv = nn.Conv2d(dim, dim * 3, kernel_size=1, bias=bias)\n        self.qkv_dwconv = nn.Conv2d(dim * 3, dim * 3, kernel_size=3, stride=1, padding=1, groups=dim * 3, bias=bias)\n        self.project_out = nn.Conv2d(dim, dim, kernel_size=1, bias=bias)\n        self.attn_drop = nn.Dropout(0.)\n        self.attn1 = torch.nn.Parameter(torch.tensor([0.2]), requires_grad=True)",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.ln = LayerNorm2d(channel)\n        self.attention = Attention(channel, num_heads, bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(self.ln(x)) + x\n        x = self.ffn(x) + x\n        return x ",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "attn_replace.TKSA",
+        "description": "attn_replace.TKSA",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "attn_replace.TKSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\nclass SepConv2d(torch.nn.Module):\n    def __init__(self,",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "SepConv2d",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class SepConv2d(torch.nn.Module):\n    def __init__(self,\n                 in_channels,\n                 out_channels,\n                 kernel_size,\n                 stride=1,\n                 padding=0,\n                 dilation=1,act_layer=nn.ReLU):\n        super(SepConv2d, self).__init__()\n        self.depthwise = torch.nn.Conv2d(in_channels,",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "ConvProjection",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class ConvProjection(nn.Module):\n    def __init__(self, dim, heads = 8, dim_head = 64, kernel_size=3, q_stride=1, k_stride=1, v_stride=1, dropout = 0.,\n                 last_stage=False,bias=True):\n        super().__init__()\n        inner_dim = dim_head *  heads\n        self.heads = heads\n        pad = (kernel_size - q_stride)//2\n        self.to_q = SepConv2d(dim, inner_dim, kernel_size, q_stride, pad, bias)\n        self.to_k = SepConv2d(dim, inner_dim, kernel_size, k_stride, pad, bias)\n        self.to_v = SepConv2d(dim, inner_dim, kernel_size, v_stride, pad, bias)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "LinearProjection",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class LinearProjection(nn.Module):\n    def __init__(self, dim, heads = 8, dim_head = 64, dropout = 0., bias=True):\n        super().__init__()\n        inner_dim = dim_head *  heads\n        self.heads = heads\n        self.to_q = nn.Linear(dim, inner_dim, bias = bias)\n        self.to_kv = nn.Linear(dim, inner_dim * 2, bias = bias)\n        self.dim = dim\n        self.inner_dim = inner_dim\n    def forward(self, x, attn_kv=None):",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "WindowAttention",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class WindowAttention(nn.Module):\n    def __init__(self, dim, win_size,num_heads, token_projection='linear', qkv_bias=True, qk_scale=None, attn_drop=0., proj_drop=0.):\n        super().__init__()\n        self.dim = dim\n        self.win_size = win_size  # Wh, Ww\n        self.num_heads = num_heads\n        head_dim = dim // num_heads\n        self.scale = qk_scale or head_dim ** -0.5\n        # define a parameter table of relative position bias\n        self.relative_position_bias_table = nn.Parameter(",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, dim,num_heads, token_projection='linear', qkv_bias=True, qk_scale=None, attn_drop=0., proj_drop=0.):\n        super().__init__()\n        self.dim = dim\n        self.num_heads = num_heads\n        head_dim = dim // num_heads\n        self.scale = qk_scale or head_dim ** -0.5\n        self.qkv = LinearProjection(dim,num_heads,dim//num_heads,bias=qkv_bias)\n        self.token_projection = token_projection\n        self.attn_drop = nn.Dropout(attn_drop)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size=8, num_heads=1, shift_size =0, qkv_bias=True, qk_scale=None,drop=0., attn_drop=0.,token_projection='linear',bias=False):\n        super(Block, self).__init__()\n        self.ln = LayerNorm2d(channel)   \n        self.win_size = 8\n        self.attention = WindowAttention(\n            channel, win_size=to_2tuple(win_size), num_heads=num_heads, \n            qkv_bias=qkv_bias, qk_scale=qk_scale, attn_drop=attn_drop, proj_drop=drop,\n            token_projection=token_projection)\n        self.ffn = FFN(channel=channel, bias=bias)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size=8, heads=1, shift_size=0, qkv_bias=True, qk_scale=None,drop=0., attn_drop=0.,token_projection='linear', depth=[4,4,8], bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=heads, shift_size=shift_size, qkv_bias=qkv_bias, qk_scale=qk_scale,drop=drop, attn_drop=attn_drop,token_projection=token_projection, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                heads = [1,2,4], \n                depth = [4,4,8],\n                bias = False\n        ):\n        super(Net, self).__init__()",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "attn_replace.W-MSA",
+        "description": "attn_replace.W-MSA",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "attn_replace.W-MSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "FeedForward",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class FeedForward(nn.Module):\n    def __init__(self, dim, ffn_expansion_factor, bias):\n        super(FeedForward, self).__init__()\n        hidden_features = int(dim*ffn_expansion_factor) \n        self.project_in = nn.Conv2d(dim, hidden_features*2, kernel_size=1, bias=bias) \n        self.dwconv = nn.Conv2d(hidden_features*2, hidden_features*2, kernel_size=3, stride=1, padding=1, groups=hidden_features*2, bias=bias) #深度卷积层：使用 groups=hidden_features*2使得每个输入通道与对应的输出通道进行卷积，形成深度卷积操作。\n        self.project_out = nn.Conv2d(hidden_features, dim, kernel_size=1, bias=bias) \n    def forward(self, x):\n        x = self.project_in(x)\n        x1, x2 = self.dwconv(x).chunk(2, dim=1)",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, factor, bias=False):\n        super(Block, self).__init__()\n        self.ln = LayerNorm2d(channel)\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FeedForward(dim=channel, ffn_expansion_factor=factor, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(self.ln(x)) + x\n        return x ",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, factor, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, factor=factor, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                factor = 2.66,\n                depth = [4,4,16],\n                bias = False",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "ffn_replace.GDFN",
+        "description": "ffn_replace.GDFN",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "ffn_replace.GDFN",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "eca_layer_1d",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class eca_layer_1d(nn.Module):\n    \"\"\"Constructs a ECA module.\n    Args:\n        channel: Number of channels of the input feature map\n        k_size: Adaptive selection of kernel size\n    \"\"\"\n    def __init__(self, channel, k_size=3):\n        super(eca_layer_1d, self).__init__()\n        self.avg_pool = nn.AdaptiveAvgPool1d(1)\n        self.conv = nn.Conv1d(1, 1, kernel_size=k_size, padding=(k_size - 1) // 2, bias=False) ",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "LeFF",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class LeFF(nn.Module):\n    def __init__(self, dim=32, hidden_dim=128, act_layer=nn.GELU,drop = 0., use_eca=False):\n        super().__init__()\n        self.linear1 = nn.Sequential(nn.Linear(dim, hidden_dim),\n                                act_layer())\n        self.dwconv = nn.Sequential(nn.Conv2d(hidden_dim,hidden_dim,groups=hidden_dim,kernel_size=3,stride=1,padding=1),\n                        act_layer())\n        self.linear2 = nn.Sequential(nn.Linear(hidden_dim, dim))\n        self.dim = dim\n        self.hidden_dim = hidden_dim",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.ln = LayerNorm2d(channel)\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = LeFF(dim=channel, hidden_dim=channel*4)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(self.ln(x)) + x\n        return x ",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "ffn_replace.LeFF",
+        "description": "ffn_replace.LeFF",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "ffn_replace.LeFF",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "FeedForward",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class FeedForward(nn.Module):\n    def __init__(self, dim, ffn_expansion_factor, bias):\n        super(FeedForward, self).__init__()\n        hidden_features = int(dim * ffn_expansion_factor)\n        self.project_in = nn.Conv2d(dim, hidden_features * 2, kernel_size=1, bias=bias)\n        self.dwconv3x3 = nn.Conv2d(hidden_features * 2, hidden_features * 2, kernel_size=3, stride=1, padding=1, groups=hidden_features * 2, bias=bias)\n        self.dwconv5x5 = nn.Conv2d(hidden_features * 2, hidden_features * 2, kernel_size=5, stride=1, padding=2, groups=hidden_features * 2, bias=bias)\n        self.relu3 = nn.ReLU()\n        self.relu5 = nn.ReLU()\n        self.dwconv3x3_1 = nn.Conv2d(hidden_features * 2, hidden_features, kernel_size=3, stride=1, padding=1, groups=hidden_features , bias=bias)",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, factor, bias=False):\n        super(Block, self).__init__()\n        self.ln = LayerNorm2d(channel)\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FeedForward(dim=channel,ffn_expansion_factor=factor, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(self.ln(x)) + x\n        return x ",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads,factor, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads,factor=factor, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                factor = 2.66,\n                depth = [4,4,16],\n                bias = False",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "ffn_replace.MSFN",
+        "description": "ffn_replace.MSFN",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "ffn_replace.MSFN",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "FRFN",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class FRFN(nn.Module):\n    def __init__(self, dim=32, hidden_dim=128, act_layer=nn.GELU,drop = 0., use_eca=False):\n        super().__init__()\n        self.linear1 = nn.Sequential(nn.Linear(dim, hidden_dim*2),\n                                act_layer())\n        self.dwconv = nn.Sequential(nn.Conv2d(hidden_dim,hidden_dim,groups=hidden_dim,kernel_size=3,stride=1,padding=1),\n                        act_layer())\n        self.linear2 = nn.Sequential(nn.Linear(hidden_dim, dim))\n        self.dim = dim\n        self.hidden_dim = hidden_dim",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.ln = LayerNorm2d(channel)\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FRFN(dim=channel, hidden_dim=channel*4)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(self.ln(x)) + x\n        return x ",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "ffn_replace.FRFN",
+        "description": "ffn_replace.FRFN",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "ffn_replace.FRFN",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        # self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        # self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    def flops(self, H, W):",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "branch.b1",
+        "description": "branch.b1",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "branch.b1",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        # self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    def flops(self, H, W):",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "branch.b2+FDO",
+        "description": "branch.b2+FDO",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "branch.b2+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        # self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        # self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    def flops(self, H, W):",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "branch.b1+FDO",
+        "description": "branch.b1+FDO",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "branch.b1+FDO",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        # self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    def flops(self, H, W):",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "branch.b2",
+        "description": "branch.b2",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "branch.b2",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    def flops(self, H, W):",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "branch.b1+b2",
+        "description": "branch.b1+b2",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "branch.b1+b2",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        # self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        # self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        # self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        # x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    # def flops(self, H, W):",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "step.wo_BFSSA",
+        "description": "step.wo_BFSSA",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "step.wo_BFSSA",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        # self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    def flops(self, H, W):",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "step.wo_s2",
+        "description": "step.wo_s2",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "step.wo_s2",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        # self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        attn_out = self.attention(x)\n        out = attn_out + x\n        x = self.ffn(out) + out\n        return x",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels=3, \n                out_channels=3, \n                channel=32, \n                win_size=[64,64,64], \n                heads=[1,2,4], \n                depth=[4,4,16],\n                bias=False\n        ):",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "step.wo_s1",
+        "description": "step.wo_s1",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "step.wo_s1",
+        "documentation": {}
+    }
+]

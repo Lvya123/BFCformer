@@ -1,0 +1,53 @@
+###############
+GPU: [0]
+PORT: 2333
+
+MODEL:
+  NAME: UNet
+  MODE: small_baseline   #
+  ARGS:
+    inp_channels: 3
+    out_channels: 3
+    channel: 48
+    win_size: [32,32,32]
+    heads: [1,2,4]
+    depth: [4,4,8]
+    bias: false
+
+TRAIN:
+  TOTAL_EPOCHS: 2000
+  BATCH_SIZE: 6
+
+  PRINT_FRE: 50           ## iter frequency of print
+  SAVE: 600                 ## when to start save checkpoints
+  SAVE_FRE:  50           ## epoch frequency of save checkpoints
+  VAL: 0                  ## when to val
+  VAL_FRE:  50           ## epoch frequency of val
+  SAVE_IMG: false         ## val nseed save images?
+  START_IMG: 1500
+  
+  RESUME:    true        ## resume? true or false
+  PRETRAIN_MODEL: model_latest.pth       ## pretrain_model: latested or epoch_num
+  TRAIN_PS:  128          ## patchsize of train
+  VAL_PS:    ~            ## patchsize of val
+
+PATH:
+  TRAIN_DATASET: '/home/run/data/Rain200H/train'
+  VAL_DATASET: '/home/run/data/Rain200H/test'
+
+# Optimization arguments.
+OPTIM:
+    lr: !!float 4e-4
+    betas: [0.9, 0.999]
+
+#schedual arguments.
+SCHE:
+  T_max: 600000
+  eta_min: !!float 1e-6
+
+
+WARM_UP:
+  use_warm_up: false
+  warm_up_lr: !!float 2e-4
+  warm_up_epoch: 1
+

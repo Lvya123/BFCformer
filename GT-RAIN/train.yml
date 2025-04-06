@@ -1,0 +1,58 @@
+###############
+GPU: [1]
+PORT: 2333
+
+MODEL:
+  NAME: UNet
+  MODE: small_baseline   #
+  ARGS:
+    inp_channels: 3
+    out_channels: 3
+    channel: 48
+    win_size: [32,32,32]
+    heads: [1,2,4]
+    depth: [4,4,8]
+    bias: false
+
+TRAIN:
+  TOTAL_EPOCHS: 20
+  BATCH_SIZE: 1
+
+  PRINT_FRE: 500           ## iter frequency of print
+  SAVE: 0                 ## when to start save checkpoints
+  SAVE_FRE:  1           ## epoch frequency of save checkpoints
+  VAL: 0                  ## when to val
+  VAL_FRE:  1           ## epoch frequency of val
+  SAVE_IMG: false         ## val nseed save images?
+  START_IMG: 10
+  SAVE_FRE_ITERATION:  5000
+  
+  RESUME:    true        ## resume? true or false
+  PRETRAIN_MODEL: model_epoch_14.pth       ## pretrain_model: latested or epoch_num
+  TRAIN_PS:  256          ## patchsize of train
+  VAL_PS:    256            ## patchsize of val
+
+  zoom_min:  .06       # the minimum zoom for RainMix, small zoom_min -- sparse
+  zoom_max:  1.8       # the maximum zoom for RainMix,  big  zoom_max -- dense
+
+PATH:
+  TRAIN_DATASET: '/home/run/data/GT-RAIN-Data/GT-RAIN_train'
+  VAL_DATASET: '/home/run/data/GT-RAIN-Data/GT-RAIN_val'
+  rain_mask_dir: '/home/run/data/GT-RAIN-Data/Streaks_Garg06' # Dir for the rain masks
+
+# Optimization arguments.
+OPTIM:
+    lr: !!float 5e-5
+    betas: [0.9, 0.999]
+
+#schedual arguments.
+SCHE:
+  T_max: 156744
+  eta_min: !!float 2e-5
+
+
+WARM_UP:
+  use_warm_up: false
+  warm_up_lr: !!float 2e-4
+  warm_up_epoch: 4
+
