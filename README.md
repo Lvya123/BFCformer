@@ -18,7 +18,7 @@ python train.py
 The results and weight will be saved in .\log.
 
 #### Pre-trained Models
-<a href="https://pan.baidu.com/s/1WU2m6HmHe6TXEZulH0HzWA">Baidu Cloud (download: cv8n)</a>
+<a href="https://pan.baidu.com/s/1WU2m6HmHe6TXEZulH0HzWA">Download (cv8n)</a>
 
 
 ##  Testing
@@ -28,7 +28,7 @@ python test.py
 ```
 
 #### Visual Deraining Results
-<a href="https://pan.baidu.com/s/1dqH3gGVvY_5G6rt1n1LkYg">Baidu Cloud (download: dg8w)</a> 
+<a href="https://pan.baidu.com/s/1dqH3gGVvY_5G6rt1n1LkYg">Download (dg8w)</a> 
 
 
 ##  Performance Evaluation
