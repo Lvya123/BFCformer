@@ -27,8 +27,8 @@ TRAIN:
   START_IMG: 10
   SAVE_FRE_ITERATION:  5000
   
-  RESUME:    true        ## resume? true or false
-  PRETRAIN_MODEL: model_epoch_14.pth       ## pretrain_model: latested or epoch_num
+  RESUME:    false        ## resume? true or false
+  PRETRAIN_MODEL: model_latest.pth       ## pretrain_model: latested or epoch_num
   TRAIN_PS:  256          ## patchsize of train
   VAL_PS:    256            ## patchsize of val
 
@@ -42,13 +42,13 @@ PATH:
 
 # Optimization arguments.
 OPTIM:
-    lr: !!float 5e-5
+    lr: !!float 2e-4
     betas: [0.9, 0.999]
 
 #schedual arguments.
 SCHE:
   T_max: 156744
-  eta_min: !!float 2e-5
+  eta_min: !!float 1e-6
 
 
 WARM_UP:
