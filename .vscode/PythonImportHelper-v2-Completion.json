@@ -1,0 +1,2791 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageChops",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageOps",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "ImageEnhance",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "torchvision.transforms.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchvision.transforms.functional",
+        "description": "torchvision.transforms.functional",
+        "detail": "torchvision.transforms.functional",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "natsorted",
+        "importPath": "natsort",
+        "description": "natsort",
+        "isExtraImport": true,
+        "detail": "natsort",
+        "documentation": {}
+    },
+    {
+        "label": "natsorted",
+        "importPath": "natsort",
+        "description": "natsort",
+        "isExtraImport": true,
+        "detail": "natsort",
+        "documentation": {}
+    },
+    {
+        "label": "natsorted",
+        "importPath": "natsort",
+        "description": "natsort",
+        "isExtraImport": true,
+        "detail": "natsort",
+        "documentation": {}
+    },
+    {
+        "label": "natsorted",
+        "importPath": "natsort",
+        "description": "natsort",
+        "isExtraImport": true,
+        "detail": "natsort",
+        "documentation": {}
+    },
+    {
+        "label": "natsorted",
+        "importPath": "natsort",
+        "description": "natsort",
+        "isExtraImport": true,
+        "detail": "natsort",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "importPath": "glob",
+        "description": "glob",
+        "isExtraImport": true,
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "rearrange",
+        "importPath": "einops",
+        "description": "einops",
+        "isExtraImport": true,
+        "detail": "einops",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models.model",
+        "description": "models.model",
+        "isExtraImport": true,
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models.model",
+        "description": "models.model",
+        "isExtraImport": true,
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models.arch_local",
+        "description": "models.arch_local",
+        "isExtraImport": true,
+        "detail": "models.arch_local",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models.arch_local",
+        "description": "models.arch_local",
+        "isExtraImport": true,
+        "detail": "models.arch_local",
+        "documentation": {}
+    },
+    {
+        "label": "img_as_ubyte",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "img_as_ubyte",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "img_as_ubyte",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "img_as_ubyte",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "img_as_ubyte",
+        "importPath": "skimage",
+        "description": "skimage",
+        "isExtraImport": true,
+        "detail": "skimage",
+        "documentation": {}
+    },
+    {
+        "label": "peak_signal_noise_ratio",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "peak_signal_noise_ratio",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "structural_similarity",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "peak_signal_noise_ratio",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "structural_similarity",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "peak_signal_noise_ratio",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "peak_signal_noise_ratio",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "peak_signal_noise_ratio",
+        "importPath": "skimage.metrics",
+        "description": "skimage.metrics",
+        "isExtraImport": true,
+        "detail": "skimage.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "utils",
+        "description": "utils",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "ordered_yaml",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "dict2str",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "ordered_yaml",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "dict2str",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "importPath": "logger",
+        "description": "logger",
+        "isExtraImport": true,
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm.notebook",
+        "description": "tqdm.notebook",
+        "isExtraImport": true,
+        "detail": "tqdm.notebook",
+        "documentation": {}
+    },
+    {
+        "label": "Visdom",
+        "importPath": "visdom",
+        "description": "visdom",
+        "isExtraImport": true,
+        "detail": "visdom",
+        "documentation": {}
+    },
+    {
+        "label": "Visdom",
+        "importPath": "visdom",
+        "description": "visdom",
+        "isExtraImport": true,
+        "detail": "visdom",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "GTRainDataset",
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "isExtraImport": true,
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "CustomBatchSampler",
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "isExtraImport": true,
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoaderTrain",
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "isExtraImport": true,
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoaderVal",
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "isExtraImport": true,
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoaderTest",
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "isExtraImport": true,
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "utils.losses",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "utils.losses",
+        "description": "utils.losses",
+        "detail": "utils.losses",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_complexity_info",
+        "importPath": "ptflops",
+        "description": "ptflops",
+        "isExtraImport": true,
+        "detail": "ptflops",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_complexity_info",
+        "importPath": "ptflops",
+        "description": "ptflops",
+        "isExtraImport": true,
+        "detail": "ptflops",
+        "documentation": {}
+    },
+    {
+        "label": "StepLR",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "ExponentialLR",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "_LRScheduler",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "ReduceLROnPlateau",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "SGD",
+        "importPath": "torch.optim.sgd",
+        "description": "torch.optim.sgd",
+        "isExtraImport": true,
+        "detail": "torch.optim.sgd",
+        "documentation": {}
+    },
+    {
+        "label": "GradualWarmupScheduler",
+        "importPath": "warmup_scheduler",
+        "description": "warmup_scheduler",
+        "isExtraImport": true,
+        "detail": "warmup_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "get_validation_data",
+        "importPath": "utils.data_RGB",
+        "description": "utils.data_RGB",
+        "isExtraImport": true,
+        "detail": "utils.data_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "get_validation_data",
+        "importPath": "utils.data_RGB",
+        "description": "utils.data_RGB",
+        "isExtraImport": true,
+        "detail": "utils.data_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "get_training_data",
+        "importPath": "utils.data_RGB",
+        "description": "utils.data_RGB",
+        "isExtraImport": true,
+        "detail": "utils.data_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "get_validation_data",
+        "importPath": "utils.data_RGB",
+        "description": "utils.data_RGB",
+        "isExtraImport": true,
+        "detail": "utils.data_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "ssim",
+        "importPath": "pytorch_msssim",
+        "description": "pytorch_msssim",
+        "isExtraImport": true,
+        "detail": "pytorch_msssim",
+        "documentation": {}
+    },
+    {
+        "label": "pyiqa",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyiqa",
+        "description": "pyiqa",
+        "detail": "pyiqa",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "RandomCrop",
+        "kind": 6,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "class RandomCrop(object):\n  def __init__(self, image_size, crop_size):\n    self.ch, self.cw = crop_size\n    ih, iw = image_size\n    self.h1 = random.randint(0, ih - self.ch)\n    self.w1 = random.randint(0, iw - self.cw)\n    self.h2 = self.h1 + self.ch\n    self.w2 = self.w1 + self.cw\n  def __call__(self, img):\n    if len(img.shape) == 3:",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "GTRainDataset",
+        "kind": 6,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "class GTRainDataset(Dataset):\n  \"\"\"\n    The dataset class for weather net training and validation.\n    Parameters:\n        train_dir_list (list) -- list of dirs for the dataset.\n        val_dir_list (list) -- list of dirs for the dataset.\n        rain_mask_dir (string) -- location of rain masks for data augmentation.\n        img_size (int) -- size of the images after cropping.\n        is_train (bool) -- True for training set.\n        val_list (list) -- list of validation scenes",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "CustomBatchSampler",
+        "kind": 6,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "class CustomBatchSampler():\n  def __init__(self, scene_indices, batch_size=16):\n    self.scene_indices = scene_indices\n    self.batch_size = batch_size\n    self.num_batches = int(scene_indices[-1][-1]/batch_size)\n  def __len__(self):\n    return self.num_batches\n  def __iter__(self):\n    scene_indices = copy.deepcopy(self.scene_indices)\n    for scene_list in scene_indices:",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "get_translation_matrix_2d",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def get_translation_matrix_2d(dx, dy):\n  \"\"\"\n  Returns a numpy affine transformation matrix for a 2D translation of\n  (dx, dy)\n  \"\"\"\n  return np.matrix([[1, 0, dx], [0, 1, dy], [0, 0, 1]])\ndef rotate_image(image, angle):\n  \"\"\"\n  Rotates the given image about it's centre\n  \"\"\"",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "rotate_image",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def rotate_image(image, angle):\n  \"\"\"\n  Rotates the given image about it's centre\n  \"\"\"\n  image_size = (image.shape[1], image.shape[0])\n  image_center = tuple(np.array(image_size) / 2)\n  rot_mat = np.vstack([cv2.getRotationMatrix2D(image_center, angle, 1.0), [0, 0, 1]])\n  trans_mat = np.identity(3)\n  w2 = image_size[0] * 0.5\n  h2 = image_size[1] * 0.5",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "rotated_rect_with_max_area",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def rotated_rect_with_max_area(w, h, angle):\n  \"\"\"\n  Given a rectangle of size wxh that has been rotated by 'angle' (in\n  radians), computes the width and height of the largest possible\n  axis-aligned rectangle (maximal area) within the rotated rectangle.\n  \"\"\"\n  if w <= 0 or h <= 0:\n    return 0,0\n  width_is_longer = w >= h\n  side_long, side_short = (w,h) if width_is_longer else (h,w)",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "gen_rotate_image",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def gen_rotate_image(img, angle):\n  dim = img.shape\n  h = dim[0]\n  w = dim[1]\n  img = rotate_image(img, angle)\n  dim_bb = img.shape\n  h_bb = dim_bb[0]\n  w_bb = dim_bb[1]\n  w_r, h_r = rotated_rect_with_max_area(w, h, math.radians(angle))\n  w_0 = (w_bb-w_r) // 2",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "int_parameter",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def int_parameter(level, maxval):\n  \"\"\"Helper function to scale `val` between 0 and maxval .\n  Args:\n    level: Level of the operation that will be between [0, `PARAMETER_MAX`].\n    maxval: Maximum value that the operation can have. This will be scaled to\n      level/PARAMETER_MAX.\n  Returns:\n    An int that results from scaling `maxval` according to `level`.\n  \"\"\"\n  return int(level * maxval / 10)",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "float_parameter",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def float_parameter(level, maxval):\n  \"\"\"Helper function to scale `val` between 0 and maxval.\n  Args:\n    level: Level of the operation that will be between [0, `PARAMETER_MAX`].\n    maxval: Maximum value that the operation can have. This will be scaled to\n      level/PARAMETER_MAX.\n  Returns:\n    A float that results from scaling `maxval` according to `level`.\n  \"\"\"\n  return float(level) * maxval / 10.",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "sample_level",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def sample_level(n):\n  return np.random.uniform(low=0.1, high=n)\ndef autocontrast(pil_img, _):\n  return ImageOps.autocontrast(pil_img)\ndef equalize(pil_img, _):\n  return ImageOps.equalize(pil_img)\ndef posterize(pil_img, level):\n  level = int_parameter(sample_level(level), 4)\n  return ImageOps.posterize(pil_img, 4 - level)\ndef rotate(pil_img, level):",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "autocontrast",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def autocontrast(pil_img, _):\n  return ImageOps.autocontrast(pil_img)\ndef equalize(pil_img, _):\n  return ImageOps.equalize(pil_img)\ndef posterize(pil_img, level):\n  level = int_parameter(sample_level(level), 4)\n  return ImageOps.posterize(pil_img, 4 - level)\ndef rotate(pil_img, level):\n  degrees = int_parameter(sample_level(level), 30)\n  if np.random.uniform() > 0.5:",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "equalize",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def equalize(pil_img, _):\n  return ImageOps.equalize(pil_img)\ndef posterize(pil_img, level):\n  level = int_parameter(sample_level(level), 4)\n  return ImageOps.posterize(pil_img, 4 - level)\ndef rotate(pil_img, level):\n  degrees = int_parameter(sample_level(level), 30)\n  if np.random.uniform() > 0.5:\n    degrees = -degrees\n  return pil_img.rotate(degrees, resample=Image.BILINEAR)",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "posterize",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def posterize(pil_img, level):\n  level = int_parameter(sample_level(level), 4)\n  return ImageOps.posterize(pil_img, 4 - level)\ndef rotate(pil_img, level):\n  degrees = int_parameter(sample_level(level), 30)\n  if np.random.uniform() > 0.5:\n    degrees = -degrees\n  return pil_img.rotate(degrees, resample=Image.BILINEAR)\ndef solarize(pil_img, level):\n  level = int_parameter(sample_level(level), 256)",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "rotate",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def rotate(pil_img, level):\n  degrees = int_parameter(sample_level(level), 30)\n  if np.random.uniform() > 0.5:\n    degrees = -degrees\n  return pil_img.rotate(degrees, resample=Image.BILINEAR)\ndef solarize(pil_img, level):\n  level = int_parameter(sample_level(level), 256)\n  return ImageOps.solarize(pil_img, 256 - level)\ndef shear_x(pil_img, level):\n  level = float_parameter(sample_level(level), 0.3)",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "solarize",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def solarize(pil_img, level):\n  level = int_parameter(sample_level(level), 256)\n  return ImageOps.solarize(pil_img, 256 - level)\ndef shear_x(pil_img, level):\n  level = float_parameter(sample_level(level), 0.3)\n  if np.random.uniform() > 0.5:\n    level = -level\n  return pil_img.transform(\n      (pil_img.width, pil_img.height),\n      Image.AFFINE, (1, level, 0, 0, 1, 0),",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "shear_x",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def shear_x(pil_img, level):\n  level = float_parameter(sample_level(level), 0.3)\n  if np.random.uniform() > 0.5:\n    level = -level\n  return pil_img.transform(\n      (pil_img.width, pil_img.height),\n      Image.AFFINE, (1, level, 0, 0, 1, 0),\n      resample=Image.BILINEAR)\ndef shear_y(pil_img, level):\n  level = float_parameter(sample_level(level), 0.3)",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "shear_y",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def shear_y(pil_img, level):\n  level = float_parameter(sample_level(level), 0.3)\n  if np.random.uniform() > 0.5:\n    level = -level\n  return pil_img.transform(\n      (pil_img.width, pil_img.height),\n      Image.AFFINE, (1, 0, 0, level, 1, 0),\n      resample=Image.BILINEAR)\ndef roll_x(pil_img, level):\n  \"\"\"Roll an image sideways.\"\"\"",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "roll_x",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def roll_x(pil_img, level):\n  \"\"\"Roll an image sideways.\"\"\"\n  delta = int_parameter(sample_level(level), pil_img.width / 3)\n  if np.random.random() > 0.5:\n    delta = -delta\n  xsize, ysize = pil_img.size\n  delta = delta % xsize\n  if delta == 0: return pil_img\n  part1 = pil_img.crop((0, 0, delta, ysize))\n  part2 = pil_img.crop((delta, 0, xsize, ysize))",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "roll_y",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def roll_y(pil_img, level):\n  \"\"\"Roll an image sideways.\"\"\"\n  delta = int_parameter(sample_level(level), pil_img.width / 3)\n  if np.random.random() > 0.5:\n    delta = -delta\n  xsize, ysize = pil_img.size\n  delta = delta % ysize\n  if delta == 0: return pil_img\n  part1 = pil_img.crop((0, 0, xsize, delta))\n  part2 = pil_img.crop((0, delta, xsize, ysize))",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "color",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def color(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1\n  return ImageEnhance.Color(pil_img).enhance(level)\n# operation that overlaps with ImageNet-C's test set\ndef contrast(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1\n  return ImageEnhance.Contrast(pil_img).enhance(level)\n# operation that overlaps with ImageNet-C's test set\ndef brightness(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "contrast",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def contrast(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1\n  return ImageEnhance.Contrast(pil_img).enhance(level)\n# operation that overlaps with ImageNet-C's test set\ndef brightness(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1\n  return ImageEnhance.Brightness(pil_img).enhance(level)\n# operation that overlaps with ImageNet-C's test set\ndef sharpness(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "brightness",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def brightness(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1\n  return ImageEnhance.Brightness(pil_img).enhance(level)\n# operation that overlaps with ImageNet-C's test set\ndef sharpness(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1\n  return ImageEnhance.Sharpness(pil_img).enhance(level)\ndef zoom_x(pil_img, level):\n  # zoom from .02 to 2.5\n  rate = level",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "sharpness",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def sharpness(pil_img, level):\n  level = float_parameter(sample_level(level), 1.8) + 0.1\n  return ImageEnhance.Sharpness(pil_img).enhance(level)\ndef zoom_x(pil_img, level):\n  # zoom from .02 to 2.5\n  rate = level\n  zoom_img = pil_img.transform(\n      (pil_img.width, pil_img.height),\n      Image.AFFINE, (rate, 0, 0, 0, 1, 0),\n      resample=Image.BILINEAR)",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "zoom_x",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def zoom_x(pil_img, level):\n  # zoom from .02 to 2.5\n  rate = level\n  zoom_img = pil_img.transform(\n      (pil_img.width, pil_img.height),\n      Image.AFFINE, (rate, 0, 0, 0, 1, 0),\n      resample=Image.BILINEAR)\n  # need to do reflect padding\n  if rate > 1.0:\n    orig_x, orig_y = pil_img.size",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "zoom_y",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def zoom_y(pil_img, level):\n  # zoom from .02 to 2.5\n  rate = level\n  zoom_img = pil_img.transform(\n      (pil_img.width, pil_img.height),\n      Image.AFFINE, (1, 0, 0, 0, rate, 0),\n      resample=Image.BILINEAR)\n  # need to do reflect padding\n  if rate > 1.0:\n    orig_x, orig_y = pil_img.size",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "getRainLayer2",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def getRainLayer2(rand_id1, rand_id2, rain_mask_dir):\n  path_img_rainlayer_src = os.path.join(rain_mask_dir, f'{rand_id1}-{rand_id2}.png')\n  rainlayer_rand = cv2.imread(path_img_rainlayer_src).astype(np.float32) / 255.0\n  rainlayer_rand = cv2.cvtColor(rainlayer_rand, cv2.COLOR_BGR2RGB)\n  return rainlayer_rand\ndef getRandRainLayer2(rain_mask_dir):\n  rand_id1 = random.randint(1, 165)\n  rand_id2 = random.randint(4, 8)\n  rainlayer_rand = getRainLayer2(rand_id1, rand_id2, rain_mask_dir)\n  return rainlayer_rand",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "getRandRainLayer2",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def getRandRainLayer2(rain_mask_dir):\n  rand_id1 = random.randint(1, 165)\n  rand_id2 = random.randint(4, 8)\n  rainlayer_rand = getRainLayer2(rand_id1, rand_id2, rain_mask_dir)\n  return rainlayer_rand\ndef rain_aug(img_rainy, img_gt, rain_mask_dir, zoom_min = 0.06, zoom_max = 1.8):\n  img_rainy = (img_rainy.astype(np.float32)) / 255.0\n  img_gt = (img_gt.astype(np.float32)) / 255.0\n  img_rainy_ret = img_rainy\n  img_gt_ret = img_gt",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "rain_aug",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def rain_aug(img_rainy, img_gt, rain_mask_dir, zoom_min = 0.06, zoom_max = 1.8):\n  img_rainy = (img_rainy.astype(np.float32)) / 255.0\n  img_gt = (img_gt.astype(np.float32)) / 255.0\n  img_rainy_ret = img_rainy\n  img_gt_ret = img_gt\n  rainlayer_rand2 = getRandRainLayer2(rain_mask_dir)\n  rainlayer_aug2 = augment_and_mix(rainlayer_rand2, severity = 3, width = 3, depth = -1, zoom_min = zoom_min, zoom_max = zoom_max) * 1\n  height = min(img_rainy.shape[0], rainlayer_aug2.shape[0])\n  width = min(img_rainy.shape[1], rainlayer_aug2.shape[1])\n  cropper = RandomCrop(rainlayer_aug2.shape[:2], (height, width))",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "augment_and_mix",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def augment_and_mix(image, severity=3, width=3, depth=-1, alpha=1., zoom_min=0.06, zoom_max=1.8):\n  \"\"\"Perform AugMix augmentations and compute mixture.\n  Args:\n    image: Raw input image as float32 np.ndarray of shape (h, w, c)\n    severity: Severity of underlying augmentation operators (between 1 to 10).\n    width: Width of augmentation chain\n    depth: Depth of augmentation chain. -1 enables stochastic depth uniformly\n      from [1, 3]\n    alpha: Probability coefficient for Beta and Dirichlet distributions.\n  Returns:",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "apply_op",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "def apply_op(image, op, severity):\n  image = np.clip(image * 255., 0, 255).astype(np.uint8)\n  pil_img = Image.fromarray(image)  # Convert to PIL.Image\n  pil_img = op(pil_img, severity)\n  return np.asarray(pil_img) / 255.\n# DataLoaders for Training and Validation set\nclass GTRainDataset(Dataset):\n  \"\"\"\n    The dataset class for weather net training and validation.\n    Parameters:",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "augmentations",
+        "kind": 5,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "augmentations = [\n    rotate, shear_x, shear_y,\n    zoom_x, zoom_y, roll_x, roll_y\n]\naugmentations_all = [\n    autocontrast, equalize, posterize, rotate, solarize, shear_x, shear_y,\n    roll_x, roll_y, color, contrast, brightness, sharpness\n]\n# RAIN MASK AUGMENTATION CODE\n# code modified from https://github.com/tsingqguo/efficientderain",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "augmentations_all",
+        "kind": 5,
+        "importPath": "GT-RAIN.utils.dataset_RGB",
+        "description": "GT-RAIN.utils.dataset_RGB",
+        "peekOfCode": "augmentations_all = [\n    autocontrast, equalize, posterize, rotate, solarize, shear_x, shear_y,\n    roll_x, roll_y, color, contrast, brightness, sharpness\n]\n# RAIN MASK AUGMENTATION CODE\n# code modified from https://github.com/tsingqguo/efficientderain\nclass RandomCrop(object):\n  def __init__(self, image_size, crop_size):\n    self.ch, self.cw = crop_size\n    ih, iw = image_size",
+        "detail": "GT-RAIN.utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "MixUp_AUG",
+        "kind": 6,
+        "importPath": "GT-RAIN.utils.dataset_utils",
+        "description": "GT-RAIN.utils.dataset_utils",
+        "peekOfCode": "class MixUp_AUG:\n    def __init__(self):\n        self.dist = torch.distributions.beta.Beta(torch.tensor([0.6]), torch.tensor([0.6]))\n    def aug(self, rgb_gt, rgb_noisy):\n        bs = rgb_gt.size(0)\n        indices = torch.randperm(bs)\n        rgb_gt2 = rgb_gt[indices]\n        rgb_noisy2 = rgb_noisy[indices]\n        lam = self.dist.rsample((bs,1)).view(-1,1,1,1).cuda()\n        rgb_gt    = lam * rgb_gt + (1-lam) * rgb_gt2",
+        "detail": "GT-RAIN.utils.dataset_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mkdirs",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dir_utils",
+        "description": "GT-RAIN.utils.dir_utils",
+        "peekOfCode": "def mkdirs(paths):\n    if isinstance(paths, list) and not isinstance(paths, str):\n        for path in paths:\n            mkdir(path)\n    else:\n        mkdir(paths)\ndef mkdir(path):\n    if not os.path.exists(path):\n        os.makedirs(path)\ndef get_last_path(path, session):",
+        "detail": "GT-RAIN.utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mkdir",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dir_utils",
+        "description": "GT-RAIN.utils.dir_utils",
+        "peekOfCode": "def mkdir(path):\n    if not os.path.exists(path):\n        os.makedirs(path)\ndef get_last_path(path, session):\n\tx = natsorted(glob(os.path.join(path,'*%s'%session)))[-1]\n\treturn x",
+        "detail": "GT-RAIN.utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_last_path",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.dir_utils",
+        "description": "GT-RAIN.utils.dir_utils",
+        "peekOfCode": "def get_last_path(path, session):\n\tx = natsorted(glob(os.path.join(path,'*%s'%session)))[-1]\n\treturn x",
+        "detail": "GT-RAIN.utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tx",
+        "kind": 5,
+        "importPath": "GT-RAIN.utils.dir_utils",
+        "description": "GT-RAIN.utils.dir_utils",
+        "peekOfCode": "\tx = natsorted(glob(os.path.join(path,'*%s'%session)))[-1]\n\treturn x",
+        "detail": "GT-RAIN.utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "torchPSNR",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.image_utils",
+        "description": "GT-RAIN.utils.image_utils",
+        "peekOfCode": "def torchPSNR(tar_img, prd_img):\n    imdff = torch.clamp(prd_img,0,1) - torch.clamp(tar_img,0,1)\n    rmse = (imdff**2).mean().sqrt()\n    ps = 20*torch.log10(1/rmse)\n    return ps\ndef save_img(filepath, img):\n    cv2.imwrite(filepath,cv2.cvtColor(img, cv2.COLOR_RGB2BGR))\ndef numpyPSNR(tar_img, prd_img):\n    imdff = np.float32(prd_img) - np.float32(tar_img)\n    rmse = np.sqrt(np.mean(imdff**2))",
+        "detail": "GT-RAIN.utils.image_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_img",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.image_utils",
+        "description": "GT-RAIN.utils.image_utils",
+        "peekOfCode": "def save_img(filepath, img):\n    cv2.imwrite(filepath,cv2.cvtColor(img, cv2.COLOR_RGB2BGR))\ndef numpyPSNR(tar_img, prd_img):\n    imdff = np.float32(prd_img) - np.float32(tar_img)\n    rmse = np.sqrt(np.mean(imdff**2))\n    ps = 20*np.log10(255/rmse)\n    return ps",
+        "detail": "GT-RAIN.utils.image_utils",
+        "documentation": {}
+    },
+    {
+        "label": "numpyPSNR",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.image_utils",
+        "description": "GT-RAIN.utils.image_utils",
+        "peekOfCode": "def numpyPSNR(tar_img, prd_img):\n    imdff = np.float32(prd_img) - np.float32(tar_img)\n    rmse = np.sqrt(np.mean(imdff**2))\n    ps = 20*np.log10(255/rmse)\n    return ps",
+        "detail": "GT-RAIN.utils.image_utils",
+        "documentation": {}
+    },
+    {
+        "label": "CharbonnierLoss",
+        "kind": 6,
+        "importPath": "GT-RAIN.utils.losses",
+        "description": "GT-RAIN.utils.losses",
+        "peekOfCode": "class CharbonnierLoss(nn.Module):\n    \"\"\"Charbonnier Loss (L1)\"\"\"\n    def __init__(self, eps=1e-3):\n        super(CharbonnierLoss, self).__init__()\n        self.eps = eps\n    def forward(self, x, y):\n        diff = x - y\n        # loss = torch.sum(torch.sqrt(diff * diff + self.eps))\n        loss = torch.mean(torch.sqrt((diff * diff) + (self.eps*self.eps)))\n        return loss",
+        "detail": "GT-RAIN.utils.losses",
+        "documentation": {}
+    },
+    {
+        "label": "EdgeLoss",
+        "kind": 6,
+        "importPath": "GT-RAIN.utils.losses",
+        "description": "GT-RAIN.utils.losses",
+        "peekOfCode": "class EdgeLoss(nn.Module):\n    def __init__(self):\n        super(EdgeLoss, self).__init__()\n        k = torch.Tensor([[.05, .25, .4, .25, .05]])\n        self.kernel = torch.matmul(k.t(),k).unsqueeze(0).repeat(3,1,1,1)\n        if torch.cuda.is_available():\n            self.kernel = self.kernel.cuda()\n        self.loss = CharbonnierLoss()\n    def conv_gauss(self, img):\n        n_channels, _, kw, kh = self.kernel.shape",
+        "detail": "GT-RAIN.utils.losses",
+        "documentation": {}
+    },
+    {
+        "label": "freeze",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def freeze(model):\n    for p in model.parameters():\n        p.requires_grad=False\ndef unfreeze(model):\n    for p in model.parameters():\n        p.requires_grad=True\ndef is_frozen(model):\n    x = [p.requires_grad for p in model.parameters()]\n    return not all(x)\ndef save_checkpoint(model_dir, state, session):",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "unfreeze",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def unfreeze(model):\n    for p in model.parameters():\n        p.requires_grad=True\ndef is_frozen(model):\n    x = [p.requires_grad for p in model.parameters()]\n    return not all(x)\ndef save_checkpoint(model_dir, state, session):\n    epoch = state['epoch']\n    model_out_path = os.path.join(model_dir,\"model_epoch_{}_{}.pth\".format(epoch,session))\n    torch.save(state, model_out_path)",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_frozen",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def is_frozen(model):\n    x = [p.requires_grad for p in model.parameters()]\n    return not all(x)\ndef save_checkpoint(model_dir, state, session):\n    epoch = state['epoch']\n    model_out_path = os.path.join(model_dir,\"model_epoch_{}_{}.pth\".format(epoch,session))\n    torch.save(state, model_out_path)\ndef load_checkpoint(model, weights):\n    checkpoint = torch.load(weights)\n    try:",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoint",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def save_checkpoint(model_dir, state, session):\n    epoch = state['epoch']\n    model_out_path = os.path.join(model_dir,\"model_epoch_{}_{}.pth\".format(epoch,session))\n    torch.save(state, model_out_path)\ndef load_checkpoint(model, weights):\n    checkpoint = torch.load(weights)\n    try:\n        model.load_state_dict(checkpoint[\"state_dict\"])\n    except:\n        state_dict = checkpoint[\"state_dict\"]",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def load_checkpoint(model, weights):\n    checkpoint = torch.load(weights)\n    try:\n        model.load_state_dict(checkpoint[\"state_dict\"])\n    except:\n        state_dict = checkpoint[\"state_dict\"]\n        new_state_dict = OrderedDict()\n        for k, v in state_dict.items():\n            name = k[35:] # remove `module.`\n            new_state_dict[name] = v",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint_multigpu",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def load_checkpoint_multigpu(model, weights):\n    checkpoint = torch.load(weights)\n    state_dict = checkpoint[\"state_dict\"]\n    new_state_dict = OrderedDict()\n    for k, v in state_dict.items():\n        name = k[7:] # remove `module.`\n        new_state_dict[name] = v\n    model.load_state_dict(new_state_dict)\ndef load_start_epoch(weights):\n    #weights = r'/home/yoga/save_pth/lzz/test_LPANet/log/UNet_small_baseline/models/131500.state'",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_start_epoch",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def load_start_epoch(weights):\n    #weights = r'/home/yoga/save_pth/lzz/test_LPANet/log/UNet_small_baseline/models/131500.state'\n    checkpoint = torch.load(weights)\n    epoch = checkpoint[\"epoch\"]\n    return epoch\ndef load_optim(optimizer, weights):\n    checkpoint = torch.load(weights)\n    optimizer.load_state_dict(checkpoint['optimizer'])\n    #for p in optimizer.param_groups: lr = p['lr']\n    #return lr",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_optim",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def load_optim(optimizer, weights):\n    checkpoint = torch.load(weights)\n    optimizer.load_state_dict(checkpoint['optimizer'])\n    #for p in optimizer.param_groups: lr = p['lr']\n    #return lr\ndef get_arch(opt):\n    arch = opt['NAME']\n    if arch == 'UNet':\n        model_restoration = Net(**opt['ARGS'])\n        print('You choose '+arch+'...')",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_arch",
+        "kind": 2,
+        "importPath": "GT-RAIN.utils.model_utils",
+        "description": "GT-RAIN.utils.model_utils",
+        "peekOfCode": "def get_arch(opt):\n    arch = opt['NAME']\n    if arch == 'UNet':\n        model_restoration = Net(**opt['ARGS'])\n        print('You choose '+arch+'...')\n    elif arch == 'UNetLocal':\n        # print('11111111111111111111111111111')\n        model_restoration = NetLocal(**opt['ARGS'])\n        # print(model_restoration)\n        print('You choose '+arch+'...')",
+        "detail": "GT-RAIN.utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "gpus",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "gpus = ','.join([str(i) for i in opt['GPU']])\nos.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_DEVICE_ORDER\"]",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "os.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_VISIBLE_DEVICES\"]",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "os.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "model_restoration",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "model_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "dir_name",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "dir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "log_dir",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "log_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "result_dir",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "result_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\n# val_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "path_chk_rest",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "path_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\n# val_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\n# val_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nscene_paths = natsorted(glob(f\"{opt['PATH']['VAL_DATASET']}/*\"))",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "val_epoch",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "val_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\n# val_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\n# val_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nscene_paths = natsorted(glob(f\"{opt['PATH']['VAL_DATASET']}/*\"))\ntotal_PSNR_output = 0\ntotal_SSIM_output = 0",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "model_restoration",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "model_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\n# val_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\n# val_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nscene_paths = natsorted(glob(f\"{opt['PATH']['VAL_DATASET']}/*\"))\ntotal_PSNR_output = 0\ntotal_SSIM_output = 0\nfor scene_path in tqdm(scene_paths):\n    scene_name = scene_path.split('/')[-1]\n    clean_img_path = glob(scene_path + '/*C-000.png')[0]",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "scene_paths",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "scene_paths = natsorted(glob(f\"{opt['PATH']['VAL_DATASET']}/*\"))\ntotal_PSNR_output = 0\ntotal_SSIM_output = 0\nfor scene_path in tqdm(scene_paths):\n    scene_name = scene_path.split('/')[-1]\n    clean_img_path = glob(scene_path + '/*C-000.png')[0]\n    rainy_img_paths = natsorted(glob(scene_path + '/*R-*.png'))\n    scene_PSNR_output = 0\n    scene_SSIM_output = 0\n    for i in tqdm(range(len(rainy_img_paths))):",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "total_PSNR_output",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "total_PSNR_output = 0\ntotal_SSIM_output = 0\nfor scene_path in tqdm(scene_paths):\n    scene_name = scene_path.split('/')[-1]\n    clean_img_path = glob(scene_path + '/*C-000.png')[0]\n    rainy_img_paths = natsorted(glob(scene_path + '/*R-*.png'))\n    scene_PSNR_output = 0\n    scene_SSIM_output = 0\n    for i in tqdm(range(len(rainy_img_paths))):\n        filename = rainy_img_paths[i].split('/')[-1][:-4]",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "total_SSIM_output",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "total_SSIM_output = 0\nfor scene_path in tqdm(scene_paths):\n    scene_name = scene_path.split('/')[-1]\n    clean_img_path = glob(scene_path + '/*C-000.png')[0]\n    rainy_img_paths = natsorted(glob(scene_path + '/*R-*.png'))\n    scene_PSNR_output = 0\n    scene_SSIM_output = 0\n    for i in tqdm(range(len(rainy_img_paths))):\n        filename = rainy_img_paths[i].split('/')[-1][:-4]\n        img = Image.open(rainy_img_paths[i])",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "num_scenes",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "num_scenes = len(scene_paths)\nprint(f\"Total PSNR Output: {total_PSNR_output/num_scenes}\")\nprint(f\"Total SSIM Output: {total_SSIM_output/num_scenes}\")\nlog('avg_psnr = %f \\t avg_ssim = %f' % (total_PSNR_output/num_scenes, total_SSIM_output/num_scenes), os.path.join(log_dir, 'val_' + str(val_epoch)+'.txt'), P=True)",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "log('avg_psnr",
+        "kind": 5,
+        "importPath": "GT-RAIN.test",
+        "description": "GT-RAIN.test",
+        "peekOfCode": "log('avg_psnr = %f \\t avg_ssim = %f' % (total_PSNR_output/num_scenes, total_SSIM_output/num_scenes), os.path.join(log_dir, 'val_' + str(val_epoch)+'.txt'), P=True)",
+        "detail": "GT-RAIN.test",
+        "documentation": {}
+    },
+    {
+        "label": "gpus",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "gpus = ','.join([str(i) for i in opt['GPU']])\nos.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nimport torch\ntorch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_DEVICE_ORDER\"]",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "os.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nimport torch\ntorch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np\nfrom collections import OrderedDict",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_VISIBLE_DEVICES\"]",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "os.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nimport torch\ntorch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np\nfrom collections import OrderedDict\nimport random",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cudnn.benchmark",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "torch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np\nfrom collections import OrderedDict\nimport random\nimport time\nimport datetime",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "dir_name",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "dir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nutils.mkdir(log_dir)\ntrain_log = os.path.join(log_dir, datetime.datetime.now().isoformat()+'.txt') \nprint(\"Now time is : \",datetime.datetime.now().isoformat())\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "log_dir",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "log_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nutils.mkdir(log_dir)\ntrain_log = os.path.join(log_dir, datetime.datetime.now().isoformat()+'.txt') \nprint(\"Now time is : \",datetime.datetime.now().isoformat())\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########\nrandom.seed(1234)",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "train_log",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "train_log = os.path.join(log_dir, datetime.datetime.now().isoformat()+'.txt') \nprint(\"Now time is : \",datetime.datetime.now().isoformat())\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########\nrandom.seed(1234)\nnp.random.seed(1234)\ntorch.manual_seed(1234)",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "result_dir",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "result_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########\nrandom.seed(1234)\nnp.random.seed(1234)\ntorch.manual_seed(1234)\ntorch.cuda.manual_seed_all(1234)\n######### Model ###########",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "model_restoration",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "model_restoration = utils.get_arch(opt['MODEL'])\nnum_params = 0\nwith open(train_log,'a') as f:\n    f.write(dict2str(opt)+'\\n')\n    f.write(str(model_restoration)+'\\n')\n    for param in model_restoration.parameters():\n        num_params += param.numel()\n    f.write('parameters:' + str(num_params))\nmodel_restoration.cuda()\n# macs, params = get_model_complexity_info(model_restoration, (3,256,256), as_strings=True,print_per_layer_stat = True, verbose=True)",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "num_params",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "num_params = 0\nwith open(train_log,'a') as f:\n    f.write(dict2str(opt)+'\\n')\n    f.write(str(model_restoration)+'\\n')\n    for param in model_restoration.parameters():\n        num_params += param.numel()\n    f.write('parameters:' + str(num_params))\nmodel_restoration.cuda()\n# macs, params = get_model_complexity_info(model_restoration, (3,256,256), as_strings=True,print_per_layer_stat = True, verbose=True)\n# log('macs = %s \\t params = %s'%(macs, params), train_log)",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "start_epoch",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "start_epoch = 1\noptimizer = torch.optim.Adam(model_restoration.parameters(), **opt['OPTIM'])\nscheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:\n    path_chk_rest = utils.get_last_path(model_dir, opt['TRAIN']['PRETRAIN_MODEL'])\n    utils.load_checkpoint(model_restoration,path_chk_rest)\n    start_epoch = 15\n    # start_epoch = utils.load_start_epoch(path_chk_rest) + 1\n    # utils.load_optim(optimizer, path_chk_rest)",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "optimizer = torch.optim.Adam(model_restoration.parameters(), **opt['OPTIM'])\nscheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:\n    path_chk_rest = utils.get_last_path(model_dir, opt['TRAIN']['PRETRAIN_MODEL'])\n    utils.load_checkpoint(model_restoration,path_chk_rest)\n    start_epoch = 15\n    # start_epoch = utils.load_start_epoch(path_chk_rest) + 1\n    # utils.load_optim(optimizer, path_chk_rest)\n    # for param in optimizer.param_groups:",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "scheduler",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:\n    path_chk_rest = utils.get_last_path(model_dir, opt['TRAIN']['PRETRAIN_MODEL'])\n    utils.load_checkpoint(model_restoration,path_chk_rest)\n    start_epoch = 15\n    # start_epoch = utils.load_start_epoch(path_chk_rest) + 1\n    # utils.load_optim(optimizer, path_chk_rest)\n    # for param in optimizer.param_groups:\n    #     param['lr'] = opt['OPTIM']['lr']",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "criterion_L1",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "criterion_L1 = torch.nn.L1Loss()\n######### DataLoaders ###########\ntrain_dataset = GTRainDataset(\n    train_dir_list=opt['PATH']['TRAIN_DATASET'],\n    val_dir_list=opt['PATH']['VAL_DATASET'], \n    rain_mask_dir=opt['PATH']['rain_mask_dir'],\n    img_size=opt['TRAIN']['TRAIN_PS'], \n    is_train=True, \n    zoom_min =opt['TRAIN']['zoom_min'],\n    zoom_max = opt['TRAIN']['zoom_max'])",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "train_dataset",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "train_dataset = GTRainDataset(\n    train_dir_list=opt['PATH']['TRAIN_DATASET'],\n    val_dir_list=opt['PATH']['VAL_DATASET'], \n    rain_mask_dir=opt['PATH']['rain_mask_dir'],\n    img_size=opt['TRAIN']['TRAIN_PS'], \n    is_train=True, \n    zoom_min =opt['TRAIN']['zoom_min'],\n    zoom_max = opt['TRAIN']['zoom_max'])\ntrain_loader = DataLoader(\n    dataset=train_dataset, ",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "train_loader",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "train_loader = DataLoader(\n    dataset=train_dataset, \n    batch_size=opt['TRAIN']['BATCH_SIZE'],\n    num_workers=16,\n    pin_memory=True\n)\nval_dataset = GTRainDataset(\n    train_dir_list=opt['PATH']['TRAIN_DATASET'],\n    val_dir_list=opt['PATH']['VAL_DATASET'], \n    rain_mask_dir=opt['PATH']['rain_mask_dir'],",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "val_dataset",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "val_dataset = GTRainDataset(\n    train_dir_list=opt['PATH']['TRAIN_DATASET'],\n    val_dir_list=opt['PATH']['VAL_DATASET'], \n    rain_mask_dir=opt['PATH']['rain_mask_dir'],\n    img_size=opt['TRAIN']['VAL_PS'],\n    is_train=False)\nval_loader = DataLoader(\n    dataset=val_dataset, \n    batch_size=1, \n    num_workers=1, ",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "val_loader",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "val_loader = DataLoader(\n    dataset=val_dataset, \n    batch_size=1, \n    num_workers=1, \n    shuffle=True, \n    drop_last=True, \n    pin_memory=False)\ntrainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "trainset_len",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "trainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) \nwindow_rainy = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "valset_len",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "valset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) \nwindow_rainy = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "total_iters",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "total_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) \nwindow_rainy = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "window_loss",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "window_loss = Visdom(port=opt['PORT']) \nwindow_rainy = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "window_rainy",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "window_rainy = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "window_restored",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "window_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "window_sharp",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "window_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])\n#     for epo in range(1, (opt['WARM_UP']['warm_up_epoch']) + 1):",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "best_psnr",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "best_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])\n#     for epo in range(1, (opt['WARM_UP']['warm_up_epoch']) + 1):\n#         model_restoration.train()\n#         start_warm_up_time = time.time()\n#         warm_up_epoch_loss = 0",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "best_epoch",
+        "kind": 5,
+        "importPath": "GT-RAIN.train",
+        "description": "GT-RAIN.train",
+        "peekOfCode": "best_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])\n#     for epo in range(1, (opt['WARM_UP']['warm_up_epoch']) + 1):\n#         model_restoration.train()\n#         start_warm_up_time = time.time()\n#         warm_up_epoch_loss = 0\n#         for iter, data in enumerate(train_loader, 1):",
+        "detail": "GT-RAIN.train",
+        "documentation": {}
+    },
+    {
+        "label": "AvgPool2d",
+        "kind": 6,
+        "importPath": "models.arch_local",
+        "description": "models.arch_local",
+        "peekOfCode": "class AvgPool2d(nn.Module):\n    def __init__(self, kernel_size=None, base_size=None, auto_pad=True, fast_imp=False):\n        super().__init__()\n        self.kernel_size = kernel_size\n        self.base_size = base_size\n        self.auto_pad = auto_pad\n        # only used for fast implementation\n        self.fast_imp = fast_imp\n        self.rs = [5,4,3,2,1]\n        self.max_r1 = self.rs[0]",
+        "detail": "models.arch_local",
+        "documentation": {}
+    },
+    {
+        "label": "LocalInstanceNorm2d",
+        "kind": 6,
+        "importPath": "models.arch_local",
+        "description": "models.arch_local",
+        "peekOfCode": "class LocalInstanceNorm2d(nn.Module):\n    def __init__(self, num_features, eps=1e-5, momentum=0.1,\n                 affine=False, track_running_stats=False):\n        super().__init__()\n        assert not track_running_stats\n        self.affine = affine\n        if self.affine:\n            self.weight = nn.Parameter(torch.ones(num_features))\n            self.bias = nn.Parameter(torch.zeros(num_features))\n        else:",
+        "detail": "models.arch_local",
+        "documentation": {}
+    },
+    {
+        "label": "Local_Base",
+        "kind": 6,
+        "importPath": "models.arch_local",
+        "description": "models.arch_local",
+        "peekOfCode": "class Local_Base():\n    def convert(self, *args, **kwargs):\n        replace_layers(self, *args, **kwargs)\n        # print(\"22222222222222222\")\n        imgs = torch.rand(train_size)\n        with torch.no_grad():\n            self.forward(imgs)\nclass NetLocal(Local_Base, Net):\n    def __init__(self, *args, base_size=(384,384), fast_imp=False, **kwargs):\n        Local_Base.__init__(self,)",
+        "detail": "models.arch_local",
+        "documentation": {}
+    },
+    {
+        "label": "NetLocal",
+        "kind": 6,
+        "importPath": "models.arch_local",
+        "description": "models.arch_local",
+        "peekOfCode": "class NetLocal(Local_Base, Net):\n    def __init__(self, *args, base_size=(384,384), fast_imp=False, **kwargs):\n        Local_Base.__init__(self,)\n        Net.__init__(self, *args, **kwargs)\n        #self.cuda()\n        # print(\"111111111111111\")\n        self.convert(base_size=base_size, fast_imp=fast_imp)",
+        "detail": "models.arch_local",
+        "documentation": {}
+    },
+    {
+        "label": "replace_layers",
+        "kind": 2,
+        "importPath": "models.arch_local",
+        "description": "models.arch_local",
+        "peekOfCode": "def replace_layers(model, base_size, fast_imp, **kwargs):\n    for n, m in model.named_children():\n        if len(list(m.children())) > 0:\n            ## compound module, go inside it\n            replace_layers(m, base_size, fast_imp, **kwargs)\n        if isinstance(m, nn.AdaptiveAvgPool2d): \n            pool = AvgPool2d(base_size=base_size, fast_imp=fast_imp, **kwargs)\n            assert m.output_size == 1\n            setattr(model, n, pool)\n        if isinstance(m, nn.InstanceNorm2d):",
+        "detail": "models.arch_local",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNormFunction",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class LayerNormFunction(torch.autograd.Function):\n    @staticmethod\n    def forward(ctx, x, weight, bias, eps):\n        ctx.eps = eps\n        N, C, H, W = x.size()\n        mu = x.mean(1, keepdim=True)\n        var = (x - mu).pow(2).mean(1, keepdim=True)\n        y = (x - mu) / (var + eps).sqrt()\n        ctx.save_for_backward(y, var, weight)\n        y = weight.view(1, C, 1, 1) * y + bias.view(1, C, 1, 1)",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "LayerNorm2d",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class LayerNorm2d(nn.Module):\n    def __init__(self, channels, eps=1e-6):\n        super(LayerNorm2d, self).__init__()\n        self.register_parameter('weight', nn.Parameter(torch.ones(channels)))\n        self.register_parameter('bias', nn.Parameter(torch.zeros(channels)))\n        self.eps = eps\n    def forward(self, x):\n        return LayerNormFunction.apply(x, self.weight, self.bias, self.eps)\ndef window_partitionx(x, window_size):\n    _, _, H, W = x.shape",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias):\n        super(Attention, self).__init__()\n        self.channel = channel\n        self.win_size = win_size\n        self.num_heads = num_heads\n        self.head_dim = channel // num_heads\n        self.temperature1 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.temperature2 = nn.Parameter(torch.ones(num_heads, 1, 1))\n        self.ln1 = LayerNorm2d(channel)",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "FFN",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class FFN(nn.Module):\n    def __init__(self, channel, bias):\n        super().__init__()\n        self.channel = channel\n        self.dim = channel//4\n        self.dim_untouched = channel - self.dim\n        self.ln = LayerNorm2d(channel)\n        self.PConv = nn.Conv2d(self.dim, self.dim, 3, 1, 1, bias=bias)\n        self.conv0 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)\n        self.conv1 = nn.Conv2d(channel, channel*4, 1, 1, 0, bias=bias)",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, channel, win_size, num_heads, bias=False):\n        super(Block, self).__init__()\n        self.attention = Attention(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias)\n        self.ffn = FFN(channel=channel, bias=bias)\n    def forward(self, x):\n        x = self.attention(x) + x\n        x = self.ffn(x) + x\n        return x \n    def flops(self, H, W):",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Layer",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class Layer(nn.Module):\n    def __init__(self, channel, win_size, num_heads, depth, bias=False):\n        super(Layer, self).__init__()\n        self.layers = nn.ModuleList([\n            Block(channel=channel, win_size=win_size, num_heads=num_heads, bias=bias) for _ in range(depth)\n        ])\n    def forward(self, x):\n        for block in self.layers:\n            x = block(x)\n        return x",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "OverlapPatchEmbed",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class OverlapPatchEmbed(nn.Module):\n    def __init__(self, in_c, channel, bias):\n        super(OverlapPatchEmbed, self).__init__()\n        self.in_c = in_c\n        self.channel = channel\n        self.proj = nn.Conv2d(in_c, channel, kernel_size=3, stride=1, padding=1, bias=bias)\n        self.act_layer = nn.LeakyReLU(True)\n    def forward(self, x):\n        x = self.proj(x)\n        x = self.act_layer(x)",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "DownSample",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class DownSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(DownSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel, channel*2, kernel_size=3, stride=2, padding=1, bias=bias), \n            nn.ReLU(True)\n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "UpSample",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class UpSample(nn.Module):\n    def __init__(self, channel, bias):\n        super(UpSample, self).__init__()\n        self.channel = channel\n        self.body = nn.Sequential(\n            nn.Conv2d(channel*2, channel*4, kernel_size=1, bias=bias),\n            nn.PixelShuffle(2), \n        )\n    def forward(self, x):\n        return self.body(x)",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "Net",
+        "kind": 6,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "class Net(nn.Module):\n    def __init__(self, \n                inp_channels = 3, \n                out_channels = 3, \n                channel = 32, \n                win_size = [64,64,64], \n                heads = [1,2,4], \n                depth = [4,4,16],\n                bias = False\n        ):",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitionx",
+        "kind": 2,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "def window_partitionx(x, window_size):\n    _, _, H, W = x.shape\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_partitions(x[:, :, :h, :w], window_size)\n    b_main = x_main.shape[0]\n    if h == H and w == W:\n        return x_main, [b_main]\n    if h != H and w != W:\n        x_r = window_partitions(x[:, :, :h, -window_size:], window_size)\n        b_r = x_r.shape[0] + b_main",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "window_reversex",
+        "kind": 2,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "def window_reversex(windows, window_size, H, W, batch_list):\n    h, w = window_size * (H // window_size), window_size * (W // window_size)\n    x_main = window_reverses(windows[:batch_list[0], ...], window_size, h, w)\n    B, C, _, _ = x_main.shape\n    # print('windows: ', windows.shape)\n    # print('batch_list: ', batch_list)\n    res = torch.zeros([B, C, H, W],device=windows.device)\n    res[:, :, :h, :w] = x_main\n    if h == H and w == W:\n        return res",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "window_partitions",
+        "kind": 2,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "def window_partitions(x, window_size):\n    \"\"\"\n    Args:\n        x: (B, C, H, W)\n        window_size (int): window size\n    Returns:\n        windows: (num_windows*B, C, window_size, window_size)\n    \"\"\"\n    B, C, H, W = x.shape\n    x = x.view(B, C, H // window_size, window_size, W // window_size, window_size)",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "window_reverses",
+        "kind": 2,
+        "importPath": "models.model",
+        "description": "models.model",
+        "peekOfCode": "def window_reverses(windows, window_size, H, W):\n    \"\"\"\n    Args:\n        windows: (num_windows*B, C, window_size, window_size)\n        window_size (int): Window size\n        H (int): Height of image\n        W (int): Width of image\n    Returns:\n        x: (B, C, H, W)\n    \"\"\"",
+        "detail": "models.model",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "models.test_lr",
+        "description": "models.test_lr",
+        "peekOfCode": "model = nn.Conv2d(3, 3, 3, 1, 1)\noptim = torch.optim.AdamW(model.parameters(), lr=2e-4)\nsch = torch.optim.lr_scheduler.CosineAnnealingLR(optim, T_max=540000, eta_min=1e-6)\nfor i in range(1, 540000 + 1):\n    optim.step()\n    sch.step()\n    if i % 50 == 0 or i == 540000+1:\n    # if i % 1052 == 0:\n        print(i, optim.param_groups[0]['lr'])\n    # optim.step()",
+        "detail": "models.test_lr",
+        "documentation": {}
+    },
+    {
+        "label": "optim",
+        "kind": 5,
+        "importPath": "models.test_lr",
+        "description": "models.test_lr",
+        "peekOfCode": "optim = torch.optim.AdamW(model.parameters(), lr=2e-4)\nsch = torch.optim.lr_scheduler.CosineAnnealingLR(optim, T_max=540000, eta_min=1e-6)\nfor i in range(1, 540000 + 1):\n    optim.step()\n    sch.step()\n    if i % 50 == 0 or i == 540000+1:\n    # if i % 1052 == 0:\n        print(i, optim.param_groups[0]['lr'])\n    # optim.step()\n    # sch.step()",
+        "detail": "models.test_lr",
+        "documentation": {}
+    },
+    {
+        "label": "sch",
+        "kind": 5,
+        "importPath": "models.test_lr",
+        "description": "models.test_lr",
+        "peekOfCode": "sch = torch.optim.lr_scheduler.CosineAnnealingLR(optim, T_max=540000, eta_min=1e-6)\nfor i in range(1, 540000 + 1):\n    optim.step()\n    sch.step()\n    if i % 50 == 0 or i == 540000+1:\n    # if i % 1052 == 0:\n        print(i, optim.param_groups[0]['lr'])\n    # optim.step()\n    # sch.step()\n# for i in range(1, int(math.sqrt(1052*1060))):",
+        "detail": "models.test_lr",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoaderTrain",
+        "kind": 6,
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "peekOfCode": "class DataLoaderTrain(Dataset):\n    def __init__(self, rgb_dir, img_options=None):\n        super(DataLoaderTrain, self).__init__()\n        inp_files = natsorted(os.listdir(os.path.join(rgb_dir, 'input')))\n        tar_files = natsorted(os.listdir(os.path.join(rgb_dir, 'target')))\n        self.inp_filenames = [os.path.join(rgb_dir, 'input', x)  for x in inp_files if is_image_file(x)]\n        self.tar_filenames = [os.path.join(rgb_dir, 'target', x) for x in tar_files if is_image_file(x)]\n        self.img_options = img_options\n        self.sizex       = len(self.tar_filenames)  # get the size of target\n        self.ps = self.img_options['patch_size']",
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoaderVal",
+        "kind": 6,
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "peekOfCode": "class DataLoaderVal(Dataset):\n    def __init__(self, rgb_dir, img_options=None, rgb_dir2=None):\n        super(DataLoaderVal, self).__init__()\n        inp_files = natsorted(os.listdir(os.path.join(rgb_dir, 'input')))\n        tar_files = natsorted(os.listdir(os.path.join(rgb_dir, 'target')))\n        self.inp_filenames = [os.path.join(rgb_dir, 'input', x)  for x in inp_files if is_image_file(x)]\n        self.tar_filenames = [os.path.join(rgb_dir, 'target', x) for x in tar_files if is_image_file(x)]\n        # inp_files = natsorted(os.listdir(os.path.join(rgb_dir, 'RE-RAIN')))\n        # tar_files = natsorted(os.listdir(os.path.join(rgb_dir, 'RE-RAIN')))\n        # self.inp_filenames = [os.path.join(rgb_dir, 'RE-RAIN', x)  for x in inp_files if is_image_file(x)]",
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoaderTest",
+        "kind": 6,
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "peekOfCode": "class DataLoaderTest(Dataset):\n    def __init__(self, inp_dir, img_options):\n        super(DataLoaderTest, self).__init__()\n        inp_files = natsorted(os.listdir(inp_dir))\n        self.inp_filenames = [os.path.join(inp_dir, x) for x in inp_files if is_image_file(x)]\n        self.inp_size = len(self.inp_filenames)\n        self.img_options = img_options\n    def __len__(self):\n        return self.inp_size\n    def __getitem__(self, index):",
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "is_image_file",
+        "kind": 2,
+        "importPath": "utils.dataset_RGB",
+        "description": "utils.dataset_RGB",
+        "peekOfCode": "def is_image_file(filename):\n    return any(filename.endswith(extension) for extension in ['jpeg', 'JPEG', 'jpg', 'png', 'JPG', 'PNG', 'gif'])\nclass DataLoaderTrain(Dataset):\n    def __init__(self, rgb_dir, img_options=None):\n        super(DataLoaderTrain, self).__init__()\n        inp_files = natsorted(os.listdir(os.path.join(rgb_dir, 'input')))\n        tar_files = natsorted(os.listdir(os.path.join(rgb_dir, 'target')))\n        self.inp_filenames = [os.path.join(rgb_dir, 'input', x)  for x in inp_files if is_image_file(x)]\n        self.tar_filenames = [os.path.join(rgb_dir, 'target', x) for x in tar_files if is_image_file(x)]\n        self.img_options = img_options",
+        "detail": "utils.dataset_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "MixUp_AUG",
+        "kind": 6,
+        "importPath": "utils.dataset_utils",
+        "description": "utils.dataset_utils",
+        "peekOfCode": "class MixUp_AUG:\n    def __init__(self):\n        self.dist = torch.distributions.beta.Beta(torch.tensor([0.6]), torch.tensor([0.6]))\n    def aug(self, rgb_gt, rgb_noisy):\n        bs = rgb_gt.size(0)\n        indices = torch.randperm(bs)\n        rgb_gt2 = rgb_gt[indices]\n        rgb_noisy2 = rgb_noisy[indices]\n        lam = self.dist.rsample((bs,1)).view(-1,1,1,1).cuda()\n        rgb_gt    = lam * rgb_gt + (1-lam) * rgb_gt2",
+        "detail": "utils.dataset_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_training_data",
+        "kind": 2,
+        "importPath": "utils.data_RGB",
+        "description": "utils.data_RGB",
+        "peekOfCode": "def get_training_data(rgb_dir, img_options):\n    assert os.path.exists(rgb_dir)\n    return DataLoaderTrain(rgb_dir, img_options)\ndef get_validation_data(rgb_dir, img_options):\n    assert os.path.exists(rgb_dir)\n    return DataLoaderVal(rgb_dir, img_options)\ndef get_test_data(rgb_dir, img_options):\n    assert os.path.exists(rgb_dir)\n    return DataLoaderTest(rgb_dir, img_options)",
+        "detail": "utils.data_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "get_validation_data",
+        "kind": 2,
+        "importPath": "utils.data_RGB",
+        "description": "utils.data_RGB",
+        "peekOfCode": "def get_validation_data(rgb_dir, img_options):\n    assert os.path.exists(rgb_dir)\n    return DataLoaderVal(rgb_dir, img_options)\ndef get_test_data(rgb_dir, img_options):\n    assert os.path.exists(rgb_dir)\n    return DataLoaderTest(rgb_dir, img_options)",
+        "detail": "utils.data_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "get_test_data",
+        "kind": 2,
+        "importPath": "utils.data_RGB",
+        "description": "utils.data_RGB",
+        "peekOfCode": "def get_test_data(rgb_dir, img_options):\n    assert os.path.exists(rgb_dir)\n    return DataLoaderTest(rgb_dir, img_options)",
+        "detail": "utils.data_RGB",
+        "documentation": {}
+    },
+    {
+        "label": "mkdirs",
+        "kind": 2,
+        "importPath": "utils.dir_utils",
+        "description": "utils.dir_utils",
+        "peekOfCode": "def mkdirs(paths):\n    if isinstance(paths, list) and not isinstance(paths, str):\n        for path in paths:\n            mkdir(path)\n    else:\n        mkdir(paths)\ndef mkdir(path):\n    if not os.path.exists(path):\n        os.makedirs(path)\ndef get_last_path(path, session):",
+        "detail": "utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mkdir",
+        "kind": 2,
+        "importPath": "utils.dir_utils",
+        "description": "utils.dir_utils",
+        "peekOfCode": "def mkdir(path):\n    if not os.path.exists(path):\n        os.makedirs(path)\ndef get_last_path(path, session):\n\tx = natsorted(glob(os.path.join(path,'*%s'%session)))[-1]\n\treturn x",
+        "detail": "utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_last_path",
+        "kind": 2,
+        "importPath": "utils.dir_utils",
+        "description": "utils.dir_utils",
+        "peekOfCode": "def get_last_path(path, session):\n\tx = natsorted(glob(os.path.join(path,'*%s'%session)))[-1]\n\treturn x",
+        "detail": "utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "\tx",
+        "kind": 5,
+        "importPath": "utils.dir_utils",
+        "description": "utils.dir_utils",
+        "peekOfCode": "\tx = natsorted(glob(os.path.join(path,'*%s'%session)))[-1]\n\treturn x",
+        "detail": "utils.dir_utils",
+        "documentation": {}
+    },
+    {
+        "label": "torchPSNR",
+        "kind": 2,
+        "importPath": "utils.image_utils",
+        "description": "utils.image_utils",
+        "peekOfCode": "def torchPSNR(tar_img, prd_img):\n    imdff = torch.clamp(prd_img,0,1) - torch.clamp(tar_img,0,1)\n    rmse = (imdff**2).mean().sqrt()\n    ps = 20*torch.log10(1/rmse)\n    return ps\ndef save_img(filepath, img):\n    cv2.imwrite(filepath,cv2.cvtColor(img, cv2.COLOR_RGB2BGR))\n    #  cv2.imwrite(filepath,np.round((img[:, :, ::-1].copy()*255.0)).astype('uint8'))\ndef numpyPSNR(tar_img, prd_img):\n    imdff = np.float32(prd_img) - np.float32(tar_img)",
+        "detail": "utils.image_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_img",
+        "kind": 2,
+        "importPath": "utils.image_utils",
+        "description": "utils.image_utils",
+        "peekOfCode": "def save_img(filepath, img):\n    cv2.imwrite(filepath,cv2.cvtColor(img, cv2.COLOR_RGB2BGR))\n    #  cv2.imwrite(filepath,np.round((img[:, :, ::-1].copy()*255.0)).astype('uint8'))\ndef numpyPSNR(tar_img, prd_img):\n    imdff = np.float32(prd_img) - np.float32(tar_img)\n    rmse = np.sqrt(np.mean(imdff**2))\n    ps = 20*np.log10(255/rmse)\n    return ps",
+        "detail": "utils.image_utils",
+        "documentation": {}
+    },
+    {
+        "label": "numpyPSNR",
+        "kind": 2,
+        "importPath": "utils.image_utils",
+        "description": "utils.image_utils",
+        "peekOfCode": "def numpyPSNR(tar_img, prd_img):\n    imdff = np.float32(prd_img) - np.float32(tar_img)\n    rmse = np.sqrt(np.mean(imdff**2))\n    ps = 20*np.log10(255/rmse)\n    return ps",
+        "detail": "utils.image_utils",
+        "documentation": {}
+    },
+    {
+        "label": "CharbonnierLoss",
+        "kind": 6,
+        "importPath": "utils.losses",
+        "description": "utils.losses",
+        "peekOfCode": "class CharbonnierLoss(nn.Module):\n    \"\"\"Charbonnier Loss (L1)\"\"\"\n    def __init__(self, eps=1e-3):\n        super(CharbonnierLoss, self).__init__()\n        self.eps = eps\n    def forward(self, x, y):\n        diff = x - y\n        # loss = torch.sum(torch.sqrt(diff * diff + self.eps))\n        loss = torch.mean(torch.sqrt((diff * diff) + (self.eps*self.eps)))\n        return loss",
+        "detail": "utils.losses",
+        "documentation": {}
+    },
+    {
+        "label": "EdgeLoss",
+        "kind": 6,
+        "importPath": "utils.losses",
+        "description": "utils.losses",
+        "peekOfCode": "class EdgeLoss(nn.Module):\n    def __init__(self):\n        super(EdgeLoss, self).__init__()\n        k = torch.Tensor([[.05, .25, .4, .25, .05]])\n        self.kernel = torch.matmul(k.t(),k).unsqueeze(0).repeat(3,1,1,1)\n        if torch.cuda.is_available():\n            self.kernel = self.kernel.cuda()\n        self.loss = CharbonnierLoss()\n    def conv_gauss(self, img):\n        n_channels, _, kw, kh = self.kernel.shape",
+        "detail": "utils.losses",
+        "documentation": {}
+    },
+    {
+        "label": "freeze",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def freeze(model):\n    for p in model.parameters():\n        p.requires_grad=False\ndef unfreeze(model):\n    for p in model.parameters():\n        p.requires_grad=True\ndef is_frozen(model):\n    x = [p.requires_grad for p in model.parameters()]\n    return not all(x)\ndef save_checkpoint(model_dir, state, session):",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "unfreeze",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def unfreeze(model):\n    for p in model.parameters():\n        p.requires_grad=True\ndef is_frozen(model):\n    x = [p.requires_grad for p in model.parameters()]\n    return not all(x)\ndef save_checkpoint(model_dir, state, session):\n    epoch = state['epoch']\n    model_out_path = os.path.join(model_dir,\"model_epoch_{}_{}.pth\".format(epoch,session))\n    torch.save(state, model_out_path)",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_frozen",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def is_frozen(model):\n    x = [p.requires_grad for p in model.parameters()]\n    return not all(x)\ndef save_checkpoint(model_dir, state, session):\n    epoch = state['epoch']\n    model_out_path = os.path.join(model_dir,\"model_epoch_{}_{}.pth\".format(epoch,session))\n    torch.save(state, model_out_path)\ndef load_checkpoint(model, weights):\n    checkpoint = torch.load(weights)\n    try:",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_checkpoint",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def save_checkpoint(model_dir, state, session):\n    epoch = state['epoch']\n    model_out_path = os.path.join(model_dir,\"model_epoch_{}_{}.pth\".format(epoch,session))\n    torch.save(state, model_out_path)\ndef load_checkpoint(model, weights):\n    checkpoint = torch.load(weights)\n    try:\n        model.load_state_dict(checkpoint[\"state_dict\"])\n    except:\n        state_dict = checkpoint[\"state_dict\"]",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def load_checkpoint(model, weights):\n    checkpoint = torch.load(weights)\n    try:\n        model.load_state_dict(checkpoint[\"state_dict\"])\n    except:\n        state_dict = checkpoint[\"state_dict\"]\n        new_state_dict = OrderedDict()\n        for k, v in state_dict.items():\n            name = k[7:] # remove `module.`\n            new_state_dict[name] = v",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint_multigpu",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def load_checkpoint_multigpu(model, weights):\n    checkpoint = torch.load(weights)\n    state_dict = checkpoint[\"state_dict\"]\n    new_state_dict = OrderedDict()\n    for k, v in state_dict.items():\n        name = k[7:] # remove `module.`\n        new_state_dict[name] = v\n    model.load_state_dict(new_state_dict)\ndef load_start_epoch(weights):\n    #weights = r'/home/yoga/save_pth/lzz/test_LPANet/log/UNet_small_baseline/models/131500.state'",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_start_epoch",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def load_start_epoch(weights):\n    #weights = r'/home/yoga/save_pth/lzz/test_LPANet/log/UNet_small_baseline/models/131500.state'\n    checkpoint = torch.load(weights)\n    epoch = checkpoint[\"epoch\"]\n    return epoch\ndef load_optim(optimizer, weights):\n    checkpoint = torch.load(weights)\n    optimizer.load_state_dict(checkpoint['optimizer'])\n    #for p in optimizer.param_groups: lr = p['lr']\n    #return lr",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_optim",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def load_optim(optimizer, weights):\n    checkpoint = torch.load(weights)\n    optimizer.load_state_dict(checkpoint['optimizer'])\n    #for p in optimizer.param_groups: lr = p['lr']\n    #return lr\ndef get_arch(opt):\n    arch = opt['NAME']\n    if arch == 'UNet':\n        model_restoration = Net(**opt['ARGS'])\n        print('You choose '+arch+'...')",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_arch",
+        "kind": 2,
+        "importPath": "utils.model_utils",
+        "description": "utils.model_utils",
+        "peekOfCode": "def get_arch(opt):\n    arch = opt['NAME']\n    if arch == 'UNet':\n        model_restoration = Net(**opt['ARGS'])\n        print('You choose '+arch+'...')\n    elif arch == 'UNetLocal':\n        # print('11111111111111111111111111111')\n        model_restoration = NetLocal(**opt['ARGS'])\n        # print(model_restoration)\n        print('You choose '+arch+'...')",
+        "detail": "utils.model_utils",
+        "documentation": {}
+    },
+    {
+        "label": "GradualWarmupScheduler",
+        "kind": 6,
+        "importPath": "warmup_scheduler.scheduler",
+        "description": "warmup_scheduler.scheduler",
+        "peekOfCode": "class GradualWarmupScheduler(_LRScheduler):\n    \"\"\" Gradually warm-up(increasing) learning rate in optimizer.\n    Proposed in 'Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour'.\n    Args:\n        optimizer (Optimizer): Wrapped optimizer.\n        multiplier: target learning rate = base lr * multiplier if multiplier > 1.0. if multiplier = 1.0, lr starts from 0 and ends up with the base_lr.\n        total_epoch: target learning rate is reached at total_epoch, gradually\n        after_scheduler: after target_epoch, use this scheduler(eg. ReduceLROnPlateau)\n    \"\"\"\n    def __init__(self, optimizer, multiplier, total_epoch, after_scheduler=None):",
+        "detail": "warmup_scheduler.scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "forward_hooki",
+        "kind": 2,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "def forward_hooki(model, input, output):\n    inp_list.append(input)\ndef forward_hooko(model, input, output):\n    out_list.append(output)\n# print(model_restoration.Decoder[2].layers[1].dau)\n# exit(0)\nhooki = model_restoration.Layers[0].layers[0].attention\nhooki.register_forward_hook(forward_hooki)\nhooko = model_restoration.Layers[-1].layers[-1].attention\nhooko.register_forward_hook(forward_hooko)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "forward_hooko",
+        "kind": 2,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "def forward_hooko(model, input, output):\n    out_list.append(output)\n# print(model_restoration.Decoder[2].layers[1].dau)\n# exit(0)\nhooki = model_restoration.Layers[0].layers[0].attention\nhooki.register_forward_hook(forward_hooki)\nhooko = model_restoration.Layers[-1].layers[-1].attention\nhooko.register_forward_hook(forward_hooko)\nprint(hooki)\nprint('--------------------------')",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "gpus",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "gpus = ','.join([str(i) for i in opt['GPU']])\nos.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\nmodel_restoration.eval().cuda()\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = opt['VAL']['PRETRAIN_MODEL']\nfeaturemap_dir = os.path.join(dir_name, 'featuremaps')",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_DEVICE_ORDER\"]",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "os.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\nmodel_restoration.eval().cuda()\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = opt['VAL']['PRETRAIN_MODEL']\nfeaturemap_dir = os.path.join(dir_name, 'featuremaps')\n# print(\"path_chk_rest = \", path_chk_rest)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_VISIBLE_DEVICES\"]",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "os.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\nmodel_restoration.eval().cuda()\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = opt['VAL']['PRETRAIN_MODEL']\nfeaturemap_dir = os.path.join(dir_name, 'featuremaps')\n# print(\"path_chk_rest = \", path_chk_rest)\n# path_chk_rest = os.path.join(log_dir, path_chk_rest)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "model_restoration",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "model_restoration = utils.get_arch(opt['MODEL'])\nmodel_restoration.eval().cuda()\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = opt['VAL']['PRETRAIN_MODEL']\nfeaturemap_dir = os.path.join(dir_name, 'featuremaps')\n# print(\"path_chk_rest = \", path_chk_rest)\n# path_chk_rest = os.path.join(log_dir, path_chk_rest)\npath_chk_rest = r\"/home/root1/data/lyn/DDN-72/log/UNet_small_baseline/models/model_epoch_180.pth\"",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "dir_name",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "dir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = opt['VAL']['PRETRAIN_MODEL']\nfeaturemap_dir = os.path.join(dir_name, 'featuremaps')\n# print(\"path_chk_rest = \", path_chk_rest)\n# path_chk_rest = os.path.join(log_dir, path_chk_rest)\npath_chk_rest = r\"/home/root1/data/lyn/DDN-72/log/UNet_small_baseline/models/model_epoch_180.pth\"\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "log_dir",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "log_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = opt['VAL']['PRETRAIN_MODEL']\nfeaturemap_dir = os.path.join(dir_name, 'featuremaps')\n# print(\"path_chk_rest = \", path_chk_rest)\n# path_chk_rest = os.path.join(log_dir, path_chk_rest)\npath_chk_rest = r\"/home/root1/data/lyn/DDN-72/log/UNet_small_baseline/models/model_epoch_180.pth\"\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "path_chk_rest",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "path_chk_rest = opt['VAL']['PRETRAIN_MODEL']\nfeaturemap_dir = os.path.join(dir_name, 'featuremaps')\n# print(\"path_chk_rest = \", path_chk_rest)\n# path_chk_rest = os.path.join(log_dir, path_chk_rest)\npath_chk_rest = r\"/home/root1/data/lyn/DDN-72/log/UNet_small_baseline/models/model_epoch_180.pth\"\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nout_list = []",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "featuremap_dir",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "featuremap_dir = os.path.join(dir_name, 'featuremaps')\n# print(\"path_chk_rest = \", path_chk_rest)\n# path_chk_rest = os.path.join(log_dir, path_chk_rest)\npath_chk_rest = r\"/home/root1/data/lyn/DDN-72/log/UNet_small_baseline/models/model_epoch_180.pth\"\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nout_list = []\ninp_list = []",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "path_chk_rest",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "path_chk_rest = r\"/home/root1/data/lyn/DDN-72/log/UNet_small_baseline/models/model_epoch_180.pth\"\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nout_list = []\ninp_list = []\nlayer_dir = os.path.join(featuremap_dir, 'attention_D')\ndef forward_hooki(model, input, output):\n    inp_list.append(input)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "val_epoch",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "val_epoch = utils.load_start_epoch(path_chk_rest)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nout_list = []\ninp_list = []\nlayer_dir = os.path.join(featuremap_dir, 'attention_D')\ndef forward_hooki(model, input, output):\n    inp_list.append(input)\ndef forward_hooko(model, input, output):\n    out_list.append(output)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "val_dataset",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "val_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nout_list = []\ninp_list = []\nlayer_dir = os.path.join(featuremap_dir, 'attention_D')\ndef forward_hooki(model, input, output):\n    inp_list.append(input)\ndef forward_hooko(model, input, output):\n    out_list.append(output)\n# print(model_restoration.Decoder[2].layers[1].dau)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "val_loader",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "val_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\nout_list = []\ninp_list = []\nlayer_dir = os.path.join(featuremap_dir, 'attention_D')\ndef forward_hooki(model, input, output):\n    inp_list.append(input)\ndef forward_hooko(model, input, output):\n    out_list.append(output)\n# print(model_restoration.Decoder[2].layers[1].dau)\n# exit(0)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "out_list",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "out_list = []\ninp_list = []\nlayer_dir = os.path.join(featuremap_dir, 'attention_D')\ndef forward_hooki(model, input, output):\n    inp_list.append(input)\ndef forward_hooko(model, input, output):\n    out_list.append(output)\n# print(model_restoration.Decoder[2].layers[1].dau)\n# exit(0)\nhooki = model_restoration.Layers[0].layers[0].attention",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "inp_list",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "inp_list = []\nlayer_dir = os.path.join(featuremap_dir, 'attention_D')\ndef forward_hooki(model, input, output):\n    inp_list.append(input)\ndef forward_hooko(model, input, output):\n    out_list.append(output)\n# print(model_restoration.Decoder[2].layers[1].dau)\n# exit(0)\nhooki = model_restoration.Layers[0].layers[0].attention\nhooki.register_forward_hook(forward_hooki)",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "layer_dir",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "layer_dir = os.path.join(featuremap_dir, 'attention_D')\ndef forward_hooki(model, input, output):\n    inp_list.append(input)\ndef forward_hooko(model, input, output):\n    out_list.append(output)\n# print(model_restoration.Decoder[2].layers[1].dau)\n# exit(0)\nhooki = model_restoration.Layers[0].layers[0].attention\nhooki.register_forward_hook(forward_hooki)\nhooko = model_restoration.Layers[-1].layers[-1].attention",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "hooki",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "hooki = model_restoration.Layers[0].layers[0].attention\nhooki.register_forward_hook(forward_hooki)\nhooko = model_restoration.Layers[-1].layers[-1].attention\nhooko.register_forward_hook(forward_hooko)\nprint(hooki)\nprint('--------------------------')\nprint(hooko)\n# exit(0)\nfor ii, data_val in enumerate(val_loader, 1):\n    # if ii <= 618:",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "hooko",
+        "kind": 5,
+        "importPath": "featuremap",
+        "description": "featuremap",
+        "peekOfCode": "hooko = model_restoration.Layers[-1].layers[-1].attention\nhooko.register_forward_hook(forward_hooko)\nprint(hooki)\nprint('--------------------------')\nprint(hooko)\n# exit(0)\nfor ii, data_val in enumerate(val_loader, 1):\n    # if ii <= 618:\n    #     continue\n    img_path = os.path.join(layer_dir, str(ii))",
+        "detail": "featuremap",
+        "documentation": {}
+    },
+    {
+        "label": "ordered_yaml",
+        "kind": 2,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "def ordered_yaml():\n    \"\"\"Support OrderedDict for yaml.\n    Returns:\n        yaml Loader and Dumper.\n    \"\"\"\n    try:\n        from yaml import CDumper as Dumper\n        from yaml import CLoader as Loader\n    except ImportError:\n        from yaml import Dumper, Loader",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "dict2str",
+        "kind": 2,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "def dict2str(opt, indent_level=1):\n    \"\"\"dict to string for printing options.\n    Args:\n        opt (dict): Option dict.\n        indent_level (int): Indent level. Default: 1.\n    Return:\n        (str): Option string for printing.\n    \"\"\"\n    msg = '\\n'\n    for k, v in opt.items():",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "logger",
+        "description": "logger",
+        "peekOfCode": "def log(args, log_path, P=True):\n    if P:\n        print(args)\n    with open(log_path,'a') as f:\n        f.write('\\n')\n        f.write(args)",
+        "detail": "logger",
+        "documentation": {}
+    },
+    {
+        "label": "gpus",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "gpus = ','.join([str(i) for i in opt['GPU']])\nos.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_DEVICE_ORDER\"]",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "os.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_VISIBLE_DEVICES\"]",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "os.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nmodel_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "model_restoration",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "model_restoration = utils.get_arch(opt['MODEL'])\ndir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "dir_name",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "dir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "log_dir",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "log_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "result_dir",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "result_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\npath_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "path_chk_rest",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "path_chk_rest = os.path.join(model_dir, opt['VAL']['PRETRAIN_MODEL'])\nutils.load_checkpoint(model_restoration, path_chk_rest)\nval_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\npsnr_val_rgb = []",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "val_epoch",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "val_epoch = utils.load_start_epoch(path_chk_rest)\nprint(\"===>Testing using weights of epoch: \",val_epoch)\nmodel_restoration.cuda()\nmodel_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\npsnr_val_rgb = []\nfor ii, data_val in enumerate(val_loader, 1):\n    target_img = img_as_ubyte(data_val[0].numpy().squeeze().transpose((1,2,0)))",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "model_restoration",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "model_restoration = nn.DataParallel(model_restoration)\nmodel_restoration.eval()\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\npsnr_val_rgb = []\nfor ii, data_val in enumerate(val_loader, 1):\n    target_img = img_as_ubyte(data_val[0].numpy().squeeze().transpose((1,2,0)))\n    input_ = data_val[1].cuda()\n    factor = 8\n    h,w = input_.shape[2],input_.shape[3]",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "val_dataset",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "val_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['VAL']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\npsnr_val_rgb = []\nfor ii, data_val in enumerate(val_loader, 1):\n    target_img = img_as_ubyte(data_val[0].numpy().squeeze().transpose((1,2,0)))\n    input_ = data_val[1].cuda()\n    factor = 8\n    h,w = input_.shape[2],input_.shape[3]\n    H,W = ((h+factor)//factor)*factor,((w+factor)//factor)*factor\n    padh = H-h if h%factor!=0 else 0",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "val_loader",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "val_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=4, drop_last=False, pin_memory=True)\npsnr_val_rgb = []\nfor ii, data_val in enumerate(val_loader, 1):\n    target_img = img_as_ubyte(data_val[0].numpy().squeeze().transpose((1,2,0)))\n    input_ = data_val[1].cuda()\n    factor = 8\n    h,w = input_.shape[2],input_.shape[3]\n    H,W = ((h+factor)//factor)*factor,((w+factor)//factor)*factor\n    padh = H-h if h%factor!=0 else 0\n    padw = W-w if w%factor!=0 else 0",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "psnr_val_rgb",
+        "kind": 5,
+        "importPath": "test",
+        "description": "test",
+        "peekOfCode": "psnr_val_rgb = []\nfor ii, data_val in enumerate(val_loader, 1):\n    target_img = img_as_ubyte(data_val[0].numpy().squeeze().transpose((1,2,0)))\n    input_ = data_val[1].cuda()\n    factor = 8\n    h,w = input_.shape[2],input_.shape[3]\n    H,W = ((h+factor)//factor)*factor,((w+factor)//factor)*factor\n    padh = H-h if h%factor!=0 else 0\n    padw = W-w if w%factor!=0 else 0\n    input_ = F.pad(input_,(0,padw,0,padh),'reflect')",
+        "detail": "test",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ['CUDA_VISIBLE_DEVICES']",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "os.environ['CUDA_VISIBLE_DEVICES'] = \"0\"\nimport torch\nimport pyiqa\nimport glob\nimport csv\n# print(pyiqa.list_models())\n# create metric with default setting\nniqe_metric = pyiqa.create_metric('niqe', device=torch.device('cuda'))\nbrisque_metric = pyiqa.create_metric('brisque', device=torch.device('cuda'))\n# check if lower better or higher better",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "niqe_metric",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "niqe_metric = pyiqa.create_metric('niqe', device=torch.device('cuda'))\nbrisque_metric = pyiqa.create_metric('brisque', device=torch.device('cuda'))\n# check if lower better or higher better\n# print(niqe_metric.lower_better)\n# print(brisque_metric.lower_better)\n# example for iqa score inference\n# Tensor inputs, img_tensor_x/y: (N, 3, H, W), RGB, 0 ~ 1\n# score_fr = iqa_metric(img_tensor_x, img_tensor_y)\n# score_nr = iqa_metric(img_tensor_x)\nresult_dir = 'C:/Users/lyn/Desktop/111'",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "brisque_metric",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "brisque_metric = pyiqa.create_metric('brisque', device=torch.device('cuda'))\n# check if lower better or higher better\n# print(niqe_metric.lower_better)\n# print(brisque_metric.lower_better)\n# example for iqa score inference\n# Tensor inputs, img_tensor_x/y: (N, 3, H, W), RGB, 0 ~ 1\n# score_fr = iqa_metric(img_tensor_x, img_tensor_y)\n# score_nr = iqa_metric(img_tensor_x)\nresult_dir = 'C:/Users/lyn/Desktop/111'\ninput_dir = 'C:/Users/lyn/Desktop/222'",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "result_dir",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "result_dir = 'C:/Users/lyn/Desktop/111'\ninput_dir = 'C:/Users/lyn/Desktop/222'\ninput_path = sorted(glob.glob(os.path.join(input_dir, '*.png')))\nresult_path = sorted(glob.glob(os.path.join(result_dir, '*.png')))\nprint(f'Length of input is {len(input_path)} and length of result is {len(result_path)}')\n# assert len(input_path) == len(result_path), 'The input and result image should have the same number!'\nf = open('result.csv', 'w', encoding='utf8', newline='')\ncsvwrite = csv.writer(f)\ncsvwrite.writerow(['Image_Index', 'NIQE', 'BRISQUE'])\nniqe_total = 0.",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "input_dir",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "input_dir = 'C:/Users/lyn/Desktop/222'\ninput_path = sorted(glob.glob(os.path.join(input_dir, '*.png')))\nresult_path = sorted(glob.glob(os.path.join(result_dir, '*.png')))\nprint(f'Length of input is {len(input_path)} and length of result is {len(result_path)}')\n# assert len(input_path) == len(result_path), 'The input and result image should have the same number!'\nf = open('result.csv', 'w', encoding='utf8', newline='')\ncsvwrite = csv.writer(f)\ncsvwrite.writerow(['Image_Index', 'NIQE', 'BRISQUE'])\nniqe_total = 0.\nbrisque_total = 0.",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "input_path",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "input_path = sorted(glob.glob(os.path.join(input_dir, '*.png')))\nresult_path = sorted(glob.glob(os.path.join(result_dir, '*.png')))\nprint(f'Length of input is {len(input_path)} and length of result is {len(result_path)}')\n# assert len(input_path) == len(result_path), 'The input and result image should have the same number!'\nf = open('result.csv', 'w', encoding='utf8', newline='')\ncsvwrite = csv.writer(f)\ncsvwrite.writerow(['Image_Index', 'NIQE', 'BRISQUE'])\nniqe_total = 0.\nbrisque_total = 0.\n# for i in range(len(input_path)):",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "result_path",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "result_path = sorted(glob.glob(os.path.join(result_dir, '*.png')))\nprint(f'Length of input is {len(input_path)} and length of result is {len(result_path)}')\n# assert len(input_path) == len(result_path), 'The input and result image should have the same number!'\nf = open('result.csv', 'w', encoding='utf8', newline='')\ncsvwrite = csv.writer(f)\ncsvwrite.writerow(['Image_Index', 'NIQE', 'BRISQUE'])\nniqe_total = 0.\nbrisque_total = 0.\n# for i in range(len(input_path)):\nfor i in range(len(input_path)):",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "f = open('result.csv', 'w', encoding='utf8', newline='')\ncsvwrite = csv.writer(f)\ncsvwrite.writerow(['Image_Index', 'NIQE', 'BRISQUE'])\nniqe_total = 0.\nbrisque_total = 0.\n# for i in range(len(input_path)):\nfor i in range(len(input_path)):\n    score_niqe = niqe_metric(result_path[i])\n    score_brisque = brisque_metric(result_path[i])\n    # print(score_niqe.item())",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "csvwrite",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "csvwrite = csv.writer(f)\ncsvwrite.writerow(['Image_Index', 'NIQE', 'BRISQUE'])\nniqe_total = 0.\nbrisque_total = 0.\n# for i in range(len(input_path)):\nfor i in range(len(input_path)):\n    score_niqe = niqe_metric(result_path[i])\n    score_brisque = brisque_metric(result_path[i])\n    # print(score_niqe.item())\n    # print(score_brisque.item())",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "niqe_total",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "niqe_total = 0.\nbrisque_total = 0.\n# for i in range(len(input_path)):\nfor i in range(len(input_path)):\n    score_niqe = niqe_metric(result_path[i])\n    score_brisque = brisque_metric(result_path[i])\n    # print(score_niqe.item())\n    # print(score_brisque.item())\n    print(f'Image {i+1}, NIQE is {score_niqe.item()} and BRISQUE is {score_brisque.item()}')\n    csvwrite.writerow([i, score_niqe.item(), score_brisque.item()])",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "brisque_total",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "brisque_total = 0.\n# for i in range(len(input_path)):\nfor i in range(len(input_path)):\n    score_niqe = niqe_metric(result_path[i])\n    score_brisque = brisque_metric(result_path[i])\n    # print(score_niqe.item())\n    # print(score_brisque.item())\n    print(f'Image {i+1}, NIQE is {score_niqe.item()} and BRISQUE is {score_brisque.item()}')\n    csvwrite.writerow([i, score_niqe.item(), score_brisque.item()])\n    niqe_total += score_niqe.item()",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "niqe_avg",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "niqe_avg = niqe_total / len(input_path)\nbrisque_avg = brisque_total / len(input_path)\nprint(f'Average NIQE is {niqe_avg} and Average BRISQUE is {brisque_avg}')",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "brisque_avg",
+        "kind": 5,
+        "importPath": "test_niqe_brisque",
+        "description": "test_niqe_brisque",
+        "peekOfCode": "brisque_avg = brisque_total / len(input_path)\nprint(f'Average NIQE is {niqe_avg} and Average BRISQUE is {brisque_avg}')",
+        "detail": "test_niqe_brisque",
+        "documentation": {}
+    },
+    {
+        "label": "gpus",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "gpus = ','.join([str(i) for i in opt['GPU']])\nos.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nimport torch\ntorch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_DEVICE_ORDER\"]",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "os.environ[\"CUDA_DEVICE_ORDER\"] = \"PCI_BUS_ID\"\nos.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nimport torch\ntorch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np\nfrom collections import OrderedDict",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"CUDA_VISIBLE_DEVICES\"]",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "os.environ[\"CUDA_VISIBLE_DEVICES\"] = gpus\nimport torch\ntorch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np\nfrom collections import OrderedDict\nimport random",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "torch.backends.cudnn.benchmark",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "torch.backends.cudnn.benchmark = True\nfrom visdom import Visdom\nimport torch.nn as nn\nimport torch.nn.functional as F\nfrom torch.utils.data import DataLoader\nimport numpy as np\nfrom collections import OrderedDict\nimport random\nimport time\nimport datetime",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "dir_name",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "dir_name = os.path.dirname(os.path.abspath(__file__))\nlog_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nutils.mkdir(log_dir)\ntrain_log = os.path.join(log_dir, datetime.datetime.now().isoformat()+'.txt') \nprint(\"Now time is : \",datetime.datetime.now().isoformat())\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "log_dir",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "log_dir = os.path.join(dir_name, 'log', opt['MODEL']['NAME'] + '_' + opt['MODEL']['MODE'])\nutils.mkdir(log_dir)\ntrain_log = os.path.join(log_dir, datetime.datetime.now().isoformat()+'.txt') \nprint(\"Now time is : \",datetime.datetime.now().isoformat())\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########\nrandom.seed(1234)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "train_log",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "train_log = os.path.join(log_dir, datetime.datetime.now().isoformat()+'.txt') \nprint(\"Now time is : \",datetime.datetime.now().isoformat())\nresult_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########\nrandom.seed(1234)\nnp.random.seed(1234)\ntorch.manual_seed(1234)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "result_dir",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "result_dir = os.path.join(log_dir, 'results')\nmodel_dir  = os.path.join(log_dir, 'models')\nutils.mkdir(result_dir)\nutils.mkdir(model_dir)\n######### Set Seeds ###########\nrandom.seed(1234)\nnp.random.seed(1234)\ntorch.manual_seed(1234)\ntorch.cuda.manual_seed_all(1234)\n######### Model ###########",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "model_restoration",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "model_restoration = utils.get_arch(opt['MODEL'])\nnum_params = 0\nwith open(train_log,'a') as f:\n    f.write(dict2str(opt)+'\\n')\n    f.write(str(model_restoration)+'\\n')\n    for param in model_restoration.parameters():\n        num_params += param.numel()\n    f.write('parameters:' + str(num_params))\nmodel_restoration.cuda()\n# macs_hand = model_restoration.flops()",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "num_params",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "num_params = 0\nwith open(train_log,'a') as f:\n    f.write(dict2str(opt)+'\\n')\n    f.write(str(model_restoration)+'\\n')\n    for param in model_restoration.parameters():\n        num_params += param.numel()\n    f.write('parameters:' + str(num_params))\nmodel_restoration.cuda()\n# macs_hand = model_restoration.flops()\n# log('macs_hand = %.2f GMac' % macs_hand, train_log,P=False)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "log('macs",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "log('macs = %s \\t params = %s'%(macs, params), train_log)\nx = torch.rand(1, 3, 256, 256)\n# print(model_restoration.flops(x) / 1e9)\nlog('+ macs = %s GMac' % (model_restoration.flops(x) / 1e9), train_log)\n######### Optimizer  ###########\nstart_epoch = 1\noptimizer = torch.optim.Adam(model_restoration.parameters(), **opt['OPTIM'])\nscheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "x = torch.rand(1, 3, 256, 256)\n# print(model_restoration.flops(x) / 1e9)\nlog('+ macs = %s GMac' % (model_restoration.flops(x) / 1e9), train_log)\n######### Optimizer  ###########\nstart_epoch = 1\noptimizer = torch.optim.Adam(model_restoration.parameters(), **opt['OPTIM'])\nscheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:\n    path_chk_rest = utils.get_last_path(model_dir, opt['TRAIN']['PRETRAIN_MODEL'])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "start_epoch",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "start_epoch = 1\noptimizer = torch.optim.Adam(model_restoration.parameters(), **opt['OPTIM'])\nscheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:\n    path_chk_rest = utils.get_last_path(model_dir, opt['TRAIN']['PRETRAIN_MODEL'])\n    utils.load_checkpoint(model_restoration,path_chk_rest)\n    start_epoch = utils.load_start_epoch(path_chk_rest) + 1\n    utils.load_optim(optimizer, path_chk_rest)\n    for param in optimizer.param_groups:",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "optimizer = torch.optim.Adam(model_restoration.parameters(), **opt['OPTIM'])\nscheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:\n    path_chk_rest = utils.get_last_path(model_dir, opt['TRAIN']['PRETRAIN_MODEL'])\n    utils.load_checkpoint(model_restoration,path_chk_rest)\n    start_epoch = utils.load_start_epoch(path_chk_rest) + 1\n    utils.load_optim(optimizer, path_chk_rest)\n    for param in optimizer.param_groups:\n        param['lr'] = opt['OPTIM']['lr']",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "scheduler",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, **opt['SCHE'])\n######### Resume ###########\nif opt['TRAIN']['RESUME']:\n    path_chk_rest = utils.get_last_path(model_dir, opt['TRAIN']['PRETRAIN_MODEL'])\n    utils.load_checkpoint(model_restoration,path_chk_rest)\n    start_epoch = utils.load_start_epoch(path_chk_rest) + 1\n    utils.load_optim(optimizer, path_chk_rest)\n    for param in optimizer.param_groups:\n        param['lr'] = opt['OPTIM']['lr']\n    for i in range(1, 1353*300+1):",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "criterion_L1",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "criterion_L1 = torch.nn.L1Loss()\n######### DataLoaders ###########\ntrain_dataset = get_training_data(opt['PATH']['TRAIN_DATASET'], {'patch_size':opt['TRAIN']['TRAIN_PS']})\ntrain_loader = DataLoader(dataset=train_dataset, batch_size=opt['TRAIN']['BATCH_SIZE'], shuffle=True, num_workers=8, drop_last=False, pin_memory=False)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['TRAIN']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=8, drop_last=False, pin_memory=False)\ntrainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "train_dataset",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "train_dataset = get_training_data(opt['PATH']['TRAIN_DATASET'], {'patch_size':opt['TRAIN']['TRAIN_PS']})\ntrain_loader = DataLoader(dataset=train_dataset, batch_size=opt['TRAIN']['BATCH_SIZE'], shuffle=True, num_workers=8, drop_last=False, pin_memory=False)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['TRAIN']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=8, drop_last=False, pin_memory=False)\ntrainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "train_loader",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "train_loader = DataLoader(dataset=train_dataset, batch_size=opt['TRAIN']['BATCH_SIZE'], shuffle=True, num_workers=8, drop_last=False, pin_memory=False)\nval_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['TRAIN']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=8, drop_last=False, pin_memory=False)\ntrainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "val_dataset",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "val_dataset = get_validation_data(opt['PATH']['VAL_DATASET'], {'patch_size':opt['TRAIN']['VAL_PS']})\nval_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=8, drop_last=False, pin_memory=False)\ntrainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) ",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "val_loader",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "val_loader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=8, drop_last=False, pin_memory=False)\ntrainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) \nwindow_rain = Visdom(port=opt['PORT'])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "trainset_len",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "trainset_len = train_dataset.__len__()\nvalset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) \nwindow_rain = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "valset_len",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "valset_len = val_dataset.__len__()\ntotal_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) \nwindow_rain = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "total_iters",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "total_iters = trainset_len/opt['TRAIN']['BATCH_SIZE']\nlog('trainset length: %d \\ttotal iters per epoch: %d \\tvalset length: %d'%(trainset_len, total_iters, valset_len), train_log)\n######### Visdom ###########\nlog(\"------------------------------------------------------------------\",train_log)\nprint('==> visdom initial')\nwindow_loss = Visdom(port=opt['PORT']) \nwindow_rain = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "window_loss",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "window_loss = Visdom(port=opt['PORT']) \nwindow_rain = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "window_rain",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "window_rain = Visdom(port=opt['PORT'])\nwindow_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "window_restored",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "window_restored = Visdom(port=opt['PORT'])\nwindow_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "window_sharp",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "window_sharp = Visdom(port=opt['PORT'])\nwindow_loss.line([[0.,0.]], [0.], win='train_loss',opts=dict(title='train_loss',legend=['loss_L1','loss_FFT'],xlabel='epoch',ylabel='loss'))\nlog(\"------------------------------------------------------------------\\n\",train_log)\nbest_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])\n#     for epo in range(1, (opt['WARM_UP']['warm_up_epoch']) + 1):",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "best_psnr",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "best_psnr = 0\nbest_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])\n#     for epo in range(1, (opt['WARM_UP']['warm_up_epoch']) + 1):\n#         model_restoration.train()\n#         start_warm_up_time = time.time()\n#         warm_up_epoch_loss = 0",
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "best_epoch",
+        "kind": 5,
+        "importPath": "train",
+        "description": "train",
+        "peekOfCode": "best_epoch = 0\n# if not opt['TRAIN']['RESUME'] and opt['WARM_UP']['use_warm_up']:\n#     log(\"start warm up, total warm up epoch:%-4d\" % (opt['WARM_UP']['warm_up_epoch']), train_log)\n#     log(\"------------------------------------------------------------------\",train_log)\n#     warm_up_optim = torch.optim.Adam(model_restoration.parameters(), lr=opt['WARM_UP']['warm_up_lr'])\n#     for epo in range(1, (opt['WARM_UP']['warm_up_epoch']) + 1):\n#         model_restoration.train()\n#         start_warm_up_time = time.time()\n#         warm_up_epoch_loss = 0\n#         for iter, data in enumerate(train_loader, 1):",
+        "detail": "train",
+        "documentation": {}
+    }
+]
