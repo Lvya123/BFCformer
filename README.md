@@ -21,7 +21,6 @@ python test.py
 ```
 Run the script then you can find the single-image deraining results in the folder 'logs'.
 
-We calculated the PSNR and SSIM based on the luminance channel Y of the YCbCr color space, and the folders “test-200LH-spa-psnr-ssim” and “test-ddn-did-panr-ssim” provide the corresponding MATLAB .m test files.
 
 ## Pre-trained Models
 Our pre-trained models are available for download in Baidu Netdisk:

@@ -1,5 +1,5 @@
 ###############
-GPU: [1]
+GPU: [0]
 
 MODEL:
   NAME: UNet
