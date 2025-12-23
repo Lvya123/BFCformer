@@ -5,7 +5,7 @@
 * Different datasets may require different training hyper-parameters. Please train the model with the arguments mentioned in the paper.
 * Before training the model, you need to open the visdom server in another command window to visualize the deraining results, please run:
 ```
-python -m visdom.server -port 2333
+python -m visdom.server -port=2333
 ```
 * Follow the instructions below to begin training our model.
 ```
