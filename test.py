@@ -54,7 +54,8 @@ def calculate_psnr_torch(img1, img2):
   # print(mse)
   return psnr_full, sim
 
-
+# Rain200H, Rain200L and SPA-Data can use this code for saving images and testing psnr and ssim, following the same evaluation protocol as FADformer (ECCV 2024).
+# DID and DDN should use the Matlib Code to calculate psnr and ssim, so you can output images by this code, and test images in Matlab.
 psnr_val_rgb = []
 ssim_val_rgb = []
 
