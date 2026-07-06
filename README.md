@@ -15,7 +15,7 @@ Run the script then you can find the generated model weights in the folder 'logs
 
 ## Testing
 * Please use the corresponding testing datasets and and modify the path in test.yml.
-* Follow the instructions below to begin training our model.
+* Follow the instructions below to begin testing our model.
 ```
 python test.py
 ```
