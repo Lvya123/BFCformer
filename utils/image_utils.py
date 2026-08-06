@@ -9,8 +9,8 @@ def torchPSNR(tar_img, prd_img):
     return ps
 
 def save_img(filepath, img):
-    cv2.imwrite(filepath,cv2.cvtColor(img, cv2.COLOR_RGB2BGR))
-    #  cv2.imwrite(filepath,np.round((img[:, :, ::-1].copy()*255.0)).astype('uint8'))
+    #  cv2.imwrite(filepath,cv2.cvtColor(img, cv2.COLOR_RGB2BGR))
+    cv2.imwrite(filepath,np.round((img[:, :, ::-1].copy()*255.0)).astype('uint8'))
 
 
 
